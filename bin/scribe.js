@@ -867,7 +867,7 @@ Util = {
     }
 }
 
-function Entry(id = '', name = '', body = '') {
+var Entry = function (id = '', name = '', body = '') {
     this.id = id;
     this.tags = [];
     this.body = body
@@ -893,9 +893,7 @@ function Entry(id = '', name = '', body = '') {
      return desc;
    };
 }
-
-var e = new Entry('', 'test123', body='# Hello World ((Title))\n\n How are you?')
-
+exports.Entry = Entry
 
 // Vue.prototype.ace = ace;
 // Vue.prototype.window = window;

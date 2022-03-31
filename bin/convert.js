@@ -2,7 +2,8 @@
 const showdown = require('showdown')
 const scribe = require("./scribe.js")
 
-var entry = new Entry('', 'test123', body='# Hello World ((Title))\n\n How are you?')
+var entry = new scribe.Entry('', 'test123', body='# Hello World ((Title))\n\n How are you?')
+console.log(entry)
 
 console.log(scribe.Entry)
 
