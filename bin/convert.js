@@ -1,22 +1,25 @@
 #! /usr/bin/env node
-console.log(process.env)
-
-
 const showdown = require('showdown')
 const scribe = require("./scribe.js")
 
-pages = ["# Hello World"]
+var entry = new Entry('', 'test123', body='# Hello World ((Title))\n\n How are you?')
 
-let desc = pages.join('\n')
-  .replace(/^head.*/gmi, '')
-  .replace(/^\).*/gmi, '')
-  .replace(/^\w+ *\([\s\S]+?\n\)/gmi, '')
+console.log(scribe.Entry)
 
-desc = showdown.makeHtml(desc)
-  .replace(/<.*?>/gmi, '')
-  .trim()
-  .substr(0, 160)
-  .split(/\n\n/)[0]
-  .trim();
 
-console.log(desc)
+
+//let desc = pages.join('\n')
+//  .replace(/^head.*/gmi, '')
+//  .replace(/^\).*/gmi, '')
+//  .replace(/^\w+ *\([\s\S]+?\n\)/gmi, '')
+//
+//console.log("Pre shodown: ", desc)
+//
+//desc = showdown.makeHtml(desc)
+//  .replace(/<.*?>/gmi, '')
+//  .trim()
+//  .substr(0, 160)
+//  .split(/\n\n/)[0]
+//  .trim();
+//
+//console.log(desc)
