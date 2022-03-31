@@ -819,21 +819,7 @@ This note is stored in the hidden area, but appears as a reference!
 
 `.trim();
 
-var showdown = require('showdown')
-var showdown = showdown.Converter({
-    simpleLineBreaks: true,
-    ghCompatibleHeaderId: true,
-    noHeaderId: true,
-    tables: true,
-    openLinksInNewWindow: true,
-    simplifiedAutoLink: true,
-    parseImgDimensions: true,
-    strikethrough: true,
-    tasklists: true,
-    smoothLivePreview: true,
-    // requireSpaceBeforeHeadingText: true,
-})
-
+const showdown = require('showdown')
 
 snippets = {
     action: ':a:',
@@ -868,30 +854,176 @@ Util = {
 }
 
 var Entry = function (id = '', name = '', body = '') {
-    this.id = id;
-    this.tags = [];
-    this.body = body
-    this.name = name || 'Untitled';
-    this.meta = {
-        public: 0,
-        url: ''
-    };
+  this.id = id;
+  this.tags = [];
+  this.body = body
+  this.name = name || 'Untitled';
+  this.meta = {
+    public: 0,
+    url: ''
+  };
+  this.showdown = new showdown.Converter({
+    simpleLineBreaks: true,
+    ghCompatibleHeaderId: true,
+    noHeaderId: true,
+    tables: true,
+    openLinksInNewWindow: true,
+    simplifiedAutoLink: true,
+    parseImgDimensions: true,
+    strikethrough: true,
+    tasklists: true,
+    smoothLivePreview: true,
+});
 
-   this.metadescription = function() {
-     let desc = this.pages.join('\n')
-       .replace(/^head.*/gmi, '')
-       .replace(/^\).*/gmi, '')
-       .replace(/^\w+ *\([\s\S]+?\n\)/gmi, '')
- 
-     desc = showdown.makeHtml(desc)
-       .replace(/<.*?>/gmi, '')
-       .trim()
-       .substr(0, 160)
-       .split(/\n\n/)[0]
-       .trim();
+  this.metadescription = function() {
+    let desc = this.pages().join('\n')
+      .replace(/^head.*/gmi, '')
+      .replace(/^\).*/gmi, '')
+      .replace(/^\w+ *\([\s\S]+?\n\)/gmi, '')
 
-     return desc;
-   };
+    desc = this.showdown.makeHtml(desc)
+      .replace(/<.*?>/gmi, '')
+      .trim()
+      .substr(0, 160)
+      .split(/\n\n/)[0]
+      .trim();
+
+    return desc;
+  };
+
+  this.pages = function() {
+    this.loadcount;
+    // console.log('-- Rendering Pages', this.loadcount);
+
+    let self = this;
+    let str = this.body.trim();
+    str = str.replace(/(\r\n|\n|\r)/gmi, '\n'); // new line nightmare
+
+    let inclimit = 100;
+
+    for (let incs = 0; incs < inclimit; incs++) { // Includes can include other includes...?!
+      let m = [...str.matchAll(/^https?:\/\/(.+?)\.pf2\.tools\/v\/(.+?)(?: |$)/gmi)];
+
+      for (let i of m) {
+        this.fetchItem(i[0]);
+      }
+
+      str = str.replace(/^https?:\/\/.+?\.pf2\.tools\/v\/.+?(?: |$)/gmi, (m) => {
+        return self.remotedata[m] || `<div style="padding:0.25em;border:1px dashed #0002"><div style="font-size:10px;text-align:center">loading <a href="${m}" target="_blank">${m}</a></div><div class="mx-auto lds-roller"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>`;
+      })
+
+      if (!m.length)
+        break;
+    }
+
+
+
+    let resetStyles = str.match(/^reset$/gmi);
+    if (resetStyles) {
+      str = str.replace(/^reset$/gmi, '');
+      this.stylesheet = '';
+    }
+    else {
+      this.stylesheet = scribecss;
+    }
+
+    let usePageNumbers = str.match(/^pagenumbers$/gmi);
+    if (usePageNumbers) {
+      str = str.replace(/^pagenumbers$/gmi, '');
+      this.stylesheet += pagecss;
+    }
+
+    let cssmatch = [...str.matchAll(/^css *\( *\n([\s\S]+?)\n\)/gmi)];
+    for (let i of cssmatch) {
+      this.stylesheet += i[1];
+    }
+    str = str.replace(/^css *\([\s\S]+?\n\)/gmi, '');
+    this.stylesheet = this.stylesheet
+      .replace(/https?[:\/\w.]+/gmi, '')
+      .replace(/{[\s\S]*?}/gmi, (m) => {
+        return m.replace(/,/gmi, '##%%##');
+      })
+      .replace(/(\}*)([^'#;\n]+?)\s*(\{|\,)/gmi, '$1#result $2$3')
+      .replace(/\;/gmi, '!important;')
+      .replace(/!important!important/gmi, '!important')
+      .replace(/#result#result/gmi, '#result')
+      .replace(/##%%##/gmi, ',');
+
+    this.watermark = '';
+    this.title = '';
+    this.bgstyle = '';
+
+    let fontsmatch = [...str.matchAll(/^fonts *\( *\n([\s\S]+?)\n\)/gmi)];
+    for (let m of fontsmatch) {
+      this.stylesheet = "@import url('https://fonts.googleapis.com/css2?family=" + m[1].split(/\n+/gi).join('&family=') + "&display=swap');\n" + this.stylesheet;
+    }
+    str = str.replace(/^fonts *\([\s\S]+?\n\)/gmi, '');
+
+    let bgmatch = [...str.matchAll(/^bg *\( *\n([\s\S]+?)\n\)/gmi)];
+    for (let m of bgmatch) {
+      this.bgstyle = m[1];
+    }
+    str = str.replace(/^bg *\([\s\S]+?\n\)/gmi, '');
+
+    let watermarkmatch = [...str.matchAll(/^watermark *\( *\n([\s\S]+?)\n\)/gmi)];
+    for (let i of watermarkmatch) {
+      this.watermark += i[1];
+    }
+    str = str.replace(/^watermark *\([\s\S]+?\n\)/gmi, '');
+
+    let titlematch = [...str.matchAll(/^title *\( *\n([\s\S]+?)\n\)/gmi)];
+    for (let i of titlematch) {
+      this.title += i[1];
+    }
+    str = str.replace(/^title *\([\s\S]+?\n\)/gmi, '');
+
+
+
+    let reference = [];
+    let refmatch = [...str.matchAll(/^(\w+) *\{([\s\S]+?)\n\}/gmi)]
+    for (let i of refmatch) {
+      reference.push({
+        key: i[1].trim(),
+        value: i[2].trim()
+      });
+    }
+    str = str.replace(/^\w+ *\{ *\n/gmi, '').replace(/^\} *\n/gmi, '');
+
+    for (let i of reference) {
+      str = str.split('{{' + i.key + '}}').join(i.value);
+    }
+
+    str = str.replace(/<!--[\s\S]*?-->/gmi, '');
+
+    str = str.split(/^\%/mi)[0].trim();
+
+    // let toc = [];
+    // let tocmatch = [...str.matchAll(/^\#+.+?\(\((\+*)(.+?)\)\)/gmi)];
+    // let n = 0;
+    // for (let i of tocmatch) {
+    //   toc.push({
+    //     depth: i[1].length,
+    //     match: i[1] + i[2],
+    //     key: i[2],
+    //     index: n
+    //   })
+    //   n += 1;
+    // }
+    // for (let i of toc) {
+    //   i.id = i.key.toLowerCase().replace(/\W/gmi, '-');
+    //   str = str.replace('((' + i.match + '))', `<a id="toc-${i.id}"></a><a id="toc-${i.id}-${i.index}"></a>`);
+    //   // str = str.split('((' + i.match + '))').join(`<a id="toc-${i.id}"></a><a id="toc-${i.id}-${i.index}"></a>`);
+    // }
+
+    // this.$root.toc = toc;
+
+    str = str.replace(/\[(.+?)\]\(\#(.+?)\)/gmi, '<a class="pointer" href="#" data-label="$2">$1</a>');
+
+
+
+    return str.split(/^(?:\=|page)\s*$/mi).map(o => o.trim());
+  }
+
 }
 exports.Entry = Entry
 

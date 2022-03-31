@@ -1,11 +1,10 @@
 #! /usr/bin/env node
-const showdown = require('showdown')
+//const showdown = require('showdown')
 const scribe = require("./scribe.js")
 
 var entry = new scribe.Entry('', 'test123', body='# Hello World ((Title))\n\n How are you?')
-console.log(entry)
-
-console.log(scribe.Entry)
+console.log("Entry:")
+console.log(entry.metadescription())
 
 
 
