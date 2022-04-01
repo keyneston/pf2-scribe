@@ -1,0 +1,5 @@
+*.png
+*.pdf
+.DS_Store
+output/*
+node_modules/puppeteer/.local-chromium

@@ -1,3 +1,32 @@
+console.log(`
+
+:/symNmmdo/.                          ':ohmmNNmds/
+ shMMMmohdMMdo.                    '+hNMMmsNMMMMd 
+ '/hMMMm:+dMMMMd/                :hNMMMMy:hNMMms. 
+  ':+dNMMd++hNMMMN+'           /mMMMMmo+hNMMNy:'  
+    -h/+smNMhooohNMN+        :mMMdsooyNMmy+/y/    
+     /dNmsoydMMMdyssMm:    .hMhhhhNMMNyssmNNo     
+      +dMMMMNNNNNMMmhNNdysdNMyhMMMMMMMMMMMNs      
+       +dMMMMMMMNmNMMmNd. ydNMMMNMMMMMMMMMh'      
+        ssMMMMMMMNN/-//:  -//::yNMMMMMMMNy'       
+         -/NmmMMmmMMy:      .yNMMMNMNMNh:         
+           '+NMMMNNNN+  ''' -mNMMMMMMo-           
+         '-:dMMhhNMMy'+NMMNo.+MMNdmMMN++-         
+         .mNMd/hMMNmNMd-NM+oNmNNMMm+hMMN:         
+          +ydoNMMMMMMM+ /o -MMMMMMMNomms'         
+           yNmMMMMMMMM:    'NMMMMMMMsNd           
+            .mNmMMMMMM+    .NMMMMMddN:            
+            'mNmoyMmNN      ymsMdydMN:            
+              'y-MMdyh'     sshMM+s/              
+              'Ny:/            ::sN:              
+              :M.                'N+              
+              oN                  sh              
+             .N/                  .N/             
+            ::s                    :--'           
+           ---                      --/           
+           
+`)
+
 images = {
     aaa: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASoAAACQCAYAAAC/HCaIAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTM4IDc5LjE1OTgyNCwgMjAxNi8wOS8xNC0wMTowOTowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTcgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkM3QTVGRUJFRjU1NzExRTk4OThCQ0UyMUIzRDk0RENCIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkM3QTVGRUJGRjU1NzExRTk4OThCQ0UyMUIzRDk0RENCIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QzdBNUZFQkNGNTU3MTFFOTg5OEJDRTIxQjNEOTREQ0IiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QzdBNUZFQkRGNTU3MTFFOTg5OEJDRTIxQjNEOTREQ0IiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7SC6DAAAAJIUlEQVR42uzd2W9UVRzA8RvjA52ZtrS4ocZ9+TN8MCEagmj0gYoxGnGJ0Sg+kAjBgEYlLC6ESIhKkKUgoggEQwtikIQC4h5j3Hfj9uibMXpO6Mh1mA7Tzjn3/n6/8/0mvxceSPqj98Od6emdLKNmVd0MuFnvpsY6iEgqUv+MzqbRPyMiElGtASmwIiIVSIEVEalACqyIqHSkbm4DKbAiIhVIgRURqUAKrIhIBVJgFbYeN4fcDLnpZh1Exy+E2QGQAqsw9boZye1zKOOQLYFUUKTAqnOkDjfZJ1gRSEUasBo/Ukda7BOsKLlqkZECq/HV7+ZoG/sEK0oKqRBvnINVOKTeGcc+wYpACqwKbYqbYxPYJ1gRSIFVYUi928E+wYpACqxEIwVWBFIFYFVLHKn3Au6TQ6EEUmAVHKn3I+xzGKwIpMAqRGe4+SDiPsGKQAqsOqrPzYcF7BOsmjc5O/68/3nZ8YO1JASpAQVIpYJVX+Q7KbA6NVIbcvsBK5ACq4b6C7qTAquxkRpssp95GT8tBSmw+g+pj0rcZ+pYjYVUfeaCFUh1gtUkI0h9LGCfqWLlX9ptbmM/YFVgVSNI1WdjpvtQ6JlCkMpj1ZfYf9qD49jPA24qMAJSKWHlkfpE4D73JoKVR2rLBPYDVhGrGEVKK1ZSkUoFq+4JIgVWkZGaZRgpbVid5eZTBfu0ipVHamuA/YAVSJnFSgtSVrEKhRRYgZRZrM5WhpQ1rDxSr0bYj8dqEtyAlAWsPFKfKd6ndqw8Utsj7ud+sAIp7VhpR0o7Vv574LUC9sPLQJBSi5VH6nND+/RY9SpDanuB+wGrNpsGTmKwOsfNFwb3qQUrf05qRwn7Aas28rfmx8CpdKw8Ul8a3qd0rDxSO0vcD1iBlXisphpHSjpWZSMFVmAlHiuP1FcJ7VMaVh6p3YL2A1ZgJRKr2QnuUwpW0pCqz4NgBVbSsPJ/531gVXg9bvYI3g9YgZVIrO5NFKuekpAaUrCfuRmfUwlWArG6J8F9DheMVe8okFr2A1Zt1A9WhWN1N1iBFFiBFViliZVH6k3F+wErsBKJ1Z1gFTQLP7AAK7ACK+NY+aMI64xgVbECyvwszqeDgFXxWM0Bq6BYrTWwH/VHFzwkI6NfzLZIFw9YFY/VHWAVFKsXwUoGUvXZClZmsLo9Uaz6I+zTX+DPG3kZWNOOVGyspoBV4VjdluA+90XEag1YyUAKrOxhdStYBX0ZCFZCkAIrsAKr1vtcDVYykAIrsAIrsFKBFFjZw+oWsAq6z1VGsKpqRwqs7GE1G6zAKjv56EJVO1L1eRmszGA1AFZB97mSOysZSNXnFbAqdDZFxOqmRLGqgZUcrGIgBVa2sJqUKFZDEbF6BqxkIAVW9rC6EayC5f/Op8BKBlJgZQ+rG9z8DVbBsFoOVjKQAit7WM0Eq6BYLTOCVUU7UmBlD6vrwAqsGibY5waWiRRYgRVYtcZqCVjJQCqPVQ2sTGA1I0GsYn1uYJebRw3sZ8KHQiUhVZ9tYGXqp4FgBVYdYSURqdhY8fC94g+FXg9WQbFalBJWkpECK7ACq9ZYLUwBqz4FSIGVPaxmghVYtYuVR+qQsi8GrMAKrJpjNd8IVhXtSIGVPaz8TwP/AiuwaoaVZqTyWPG5gTawmp7gPvdmcfJYbTGwn6szRe9JtYNVBlaFYhU6f2e8IsFdzo+E1DUG7lAH/ffFaRmRjDxSi908lNjXvcDNsxGQusrNLjenK97NZjd3uflTy3EEXvrZfumX6p3UgggvoU3dSTW7IEcy3kwHKZACqfJnS6trWiNWIAVSGmchSE0MKY1YgRRIgVSCSGnCCqR0I9WVKFKPgNSYs3Ui7zPzS8lMLKT84b1lid5JVQJ/z/rrYIYRpHo6uXB5zAtIgVQYpLpAasznzPWEuMvgwXkgBVIgJe5OSiJWPIoYpEDKFlJRzj7y4Q4gBVIgJf2AdmlYgRRIaZxFEZCqgpRMrEAKpEDqBFLTDSC1vQikisQKpHQjVU0UqcUgJQOpejEfWRzrCEIfSDWdDVnY8z2pIvVYxjmpVkjVspKKgRVIgRRIgZRorECq2FkPUkHmcZCSjVRIrECqeKS6QAqkIs4OSUiFwAqkQErjPAFSupDqBCuQAimN82QEpKogJRMrkNKNVAWkOILQBKnuTEntYAVSIAVStpDaqQmpdrACKZACKVtI7dKIVCuseOgdSGmcJSBlE6lmWIFU8Yc5QUomUr5rjSBVzYzksXo443P3NJ84TxWppZGQ8l3p5g+Qsh9IgVTMWRYRqfpLvyvc/A5SIAVSICURqTxWlyvDCqRAShRSXYkitbwgpPJYXebmNwW7eQOkQEoaUktBCqxysydTcOIcpEDK+qwoCanGl4G/ghRIWZuNES6uOSBVWrXRO6tfQAqkLCEV4/2CyW6OJrTHp4UglcfqUiFYDWcGDnOClD2k8lgdAamksfJI9UAQSElFql6v8TsrqUjlsbrEzc8gBVIg1bo+o3dW0pEqE6t9IAVSmpDKY3XY0B5XKkEqj9XFBWEFUuNoGiiJQSr/ntVhkCot/29/kZufIiPVCz/j+0cZACcxSOWxOgRSpV4XF0bCCqTAqqPZlMn6lQWtWGlHKn9dXODmx4C72Q9SYNUpUhIP2nmsDira4yojSDVi9QNIgRVI2cDKGlKNWH0PUmAFUq3rFY6VVaQasfoOpMAKpE59Z/W2wD0+ZxypfOePE6sDIAVWKSGVx+oASJWO1bcgBVYg1bo+IVitThCpeue5+QakwAqkTn1n9RZIldq5br4GKbAKPYOZrWf9eKz2l4QUj8htjhVIgVXHSFl81k/RWIHUyU0dxeogSIEVSI2dvzj2FbDHNSBFYAVSndQTGSuQIpVYzQIpkVgNgxTRiSrCsUoNqXrdgbECKQIrkIqG1Z4Ae3wBpAis4j1Pik/y6BwrkCKwiogUF9f/sdoNUkRysAKpMFiBFIEVSJWG1a429riWPRJYgVTZWO0EKaLisQKpMFiBFIEVSImq1oAVSBFYRcIKpDrH6nU369gjURysQIqIRGMFUkQkGiuQIiLRWIEUEYnGCqSISDRWIEVEorECKSISjRVIEZForECKiERj9RJIEZXfvwIMAJAxbvc9oY0BAAAAAElFTkSuQmCC",
     aa: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOIAAACQCAYAAAAV+rcdAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTM4IDc5LjE1OTgyNCwgMjAxNi8wOS8xNC0wMTowOTowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTcgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkNFOEY1QTU2RjU1NzExRTk4MDYwREFGNjFCMDlBMjVBIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkNFOEY1QTU3RjU1NzExRTk4MDYwREFGNjFCMDlBMjVBIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6Q0U4RjVBNTRGNTU3MTFFOTgwNjBEQUY2MUIwOUEyNUEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6Q0U4RjVBNTVGNTU3MTFFOTgwNjBEQUY2MUIwOUEyNUEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz5sx5U0AAAGVUlEQVR42uzdS4sUVxjG8SIrp6dnJj1e84XciJqQLBxHRFFJEFfuVJRIiAleEEUUQcQ7eFmEiJAZRVFhHC9JvBAkUT+JhPYcnIJyGKd7uuuc877v+T/wblwI/XT9OFV1umqKgsyVQTdjbi64aVIHIekQtmfm8sy/EUIipTkLIRgJEYIQjIQIQQhGQiIgXN8FQjASIgQhGAkRghCMhAhBCMZ6M+xmys2EmyHqyCP+ix6vASEY68mIm0eVPicKfkQBQjBGRzg9R59gBCEYIyJ8PE+fYDR6TRgSIRgXllE3T7roE4zcmAFjQIRPF9AnGEEIxpqz2M2zHvoEIwjBWCPCP/voE4wgBGNihGAEYS0Ym5kj/KvGPtn0ByEYe0D4d4A+J8EIQjB2lyVungfsE4wgBGOHtNy8iNAnGIUhHFOAMBeMrcArIRhBCMYOGY20EoIRhGCcB+HLhH2CEYR9YVxkBOErAX2CMWIGjSAs51Khe9N/qRCEVYwtmIAwJ4we4T8C+7wNxnBpGEWoFaNUhGAMjHCdYYTaMC5z81pBn2AEoVmMWhCCEYRmMS5XhhCMIDSH0SP8V3GfYASheozaEYIRhOoxeoT/GerTYxyBWeesBJ8YjCvcvDHYJxi7iD91eAa+5Bg9wreG+wQjGMVj/Mo4QjCCUTxGj/BdRn2CEYwiMY5n2CcYwSgOo/8/d4CRgFEGxu2ZYhyOfXC3220wgnFejD9k2OdkTIweoTaIPqNgjI7xezCGRagRIhjBaAJjFaFWiGBMg3EbGIEIRjCawpgCogezuwjzdi0wxse4FYz6rhE9lEczH+ZGoIMDjPExbgGjnrumVYTlXAOjGYybM8U4qmkfcS6EoTEuBmN0jJsy7PNOCIyxEYLRHsaNYNSJEIxgBKMQhGAEIxiFIASjPYwbwKgTIRjtYRwHo06E5VwFoxmMY2DUibCc62CM/vcZQ2H8LlOMTe0IwWgL46JMMU7EwhgSIRjtYfwWjDoRgtEexm/c/A9GfQjBaA/jWjDqRAhGexjXgFEnQjCCEYxCEFYxNsFoAuPqDDH2/N5USQjLuQFGU3dTwagQYWiMPFwcf9P/azDqRAhGMGaBsaUAIRjtYVwLxk8RTin7MGAEoymMGhGC0R5Gfzf1fa4YNSOsYuS9qTYwrsqwT49RzTVhNxgLMEbFWHf8mc2RDLvc/UVBiIx4hPvd7Mzsc+9xc0zLdgWnprZPTXNdCffM7lEzRm7WgNAEQs0YQQhCjbO3U4+aMIIQhCYRasIIQt0IBzJFuG+hPfKjbyYUwoabQ5muhI1eD0wegwIhCOtBONDvKsGDwSAEYUKEkjDyqgwQZo1QAkYQghCEiTGCEIQa58dQCFNgBCEIQZgYIwh1IxzMFOH+WAjLhHylRqgtihYI55yLve5vgfCT+anmHpNiBCEIQZgYIwjjzgUQ1jI/p0ZYJ0YQxkc4AEI7COvACEIQapwD0hD2gxGEINQ4v0hF2AtGEOpG2ABhPWm328kwghCEIJxBGApiJ4wgBCEIKwhDQvwcRh7qBaHG+TUkwtAQZ2MEYfzNehAKRJgCYolxV8F7RzX/YiZXhAdD3R1NATFUQAjCkHMo5BaFFYggBKFahLFv1oBQN8KBTBEeLiJu1muFCMJ4CA+CMB5GEIIQhB/nSCH8Z2sglDuXAhw8W0FIQLgwhCFeJ/KlmycZ9XgUhCCUhrCK8TEICQjTISwzYnxlBCEIxSMs0zK6MoIQhGoQVjFOG+rxOAi7y0rQiUFYvWacBmFe8QfcGPjEIKxinAIhGHkDNxhBCMYkCJsCvxeP8aGiHk+AEIzWEGrDCEIwmkVYZkQ4RhCC0TzC6sr4QGCPJ0EIxlwQVjHeByEYQZg+LSEYT4EQjLkirK6M90AIRo1zxQjCKsa7iRAOwgKMvSIcMvi9xMYIQjCC8DPxWxt3IvR4GoRgBOH8GQ6MEYRCMa4DoUiMkyDMKw3hGHNDWGaoZowgBCMI+8D4Rw09ngEhGPt5nnCIr6VvjCAEo/qHeiVhvAVCMIJQH0YQghGEATHe7KLHs/QIRhCGx/g7CMEIQrkYQQhGEEZOcxZGEIIRhAkx/ubmHD2CEYSEKMUIQkISYwQhIYkxgpCQxBhBSEhijCAkJDFGEBKSGCMICUmMEYSEJMZ4HoQkRj4IMADQdYRmBpdJUwAAAABJRU5ErkJggg==",
@@ -819,7 +848,20 @@ This note is stored in the hidden area, but appears as a reference!
 
 `.trim();
 
-const showdown = require('showdown')
+showdown = new showdown.Converter({
+    simpleLineBreaks: true,
+    ghCompatibleHeaderId: true,
+    noHeaderId: true,
+    tables: true,
+    openLinksInNewWindow: true,
+    simplifiedAutoLink: true,
+    parseImgDimensions: true,
+    strikethrough: true,
+    tasklists: true,
+    smoothLivePreview: true,
+    // requireSpaceBeforeHeadingText: true,
+})
+
 
 snippets = {
     action: ':a:',
@@ -853,1671 +895,1528 @@ Util = {
     }
 }
 
-var Entry = function (id = '', name = '', body = '') {
-  this.id = id;
-  this.tags = [];
-  this.body = body
-  this.name = name || 'Untitled';
-  this.meta = {
-    public: 0,
-    url: ''
-  };
-  this.showdown = new showdown.Converter({
-    simpleLineBreaks: true,
-    ghCompatibleHeaderId: true,
-    noHeaderId: true,
-    tables: true,
-    openLinksInNewWindow: true,
-    simplifiedAutoLink: true,
-    parseImgDimensions: true,
-    strikethrough: true,
-    tasklists: true,
-    smoothLivePreview: true,
+Entry = function (id = '', name = '', body = '') {
+    this.id = id;
+    this.tags = [];
+    this.body = body
+    this.name = name || 'Untitled';
+    this.meta = {
+        public: 0,
+        url: ''
+    };
+};
+
+
+Vue.prototype.ace = ace;
+Vue.prototype.window = window;
+Vue.prototype.showdown = showdown;
+Vue.prototype.images = images;
+Vue.prototype.snippets = snippets;
+Vue.prototype.Util = Util;
+
+Vue.component('fa', {
+    props: ['icon', 'fw', 's', 'r', 'd', 'l', 'w'],
+    computed: {
+        set() {
+            if (this.r !== undefined)
+                return 'far'
+            if (this.d !== undefined)
+                return 'fad'
+            if (this.l !== undefined)
+                return 'fal'
+            return 'fas'
+        }
+    },
+    template: /*html*/ `
+<i :style="{'w': w + 'px'}" :class="[{'fa-fw': fw !== undefined},'fa-' + icon, set]"></i>
+    `
 });
 
-  this.metadescription = function() {
-    let desc = this.pages().join('\n')
-      .replace(/^head.*/gmi, '')
-      .replace(/^\).*/gmi, '')
-      .replace(/^\w+ *\([\s\S]+?\n\)/gmi, '')
+Vue.component('modal', {
+    props: ['title', 'id', 'mw', 'subtype', 'static'],
+    template: /*html*/ `
+<div class="modal fade" tabindex="-1" role="dialog" :id="id">
+    <div class="modal-dialog shadow" role="document" :style="{'max-width': mw + 'px'}">
+        <div class="modal-content">
+            <div class="modal-header d-flex align-items-center">
+                <h5 class="modal-title text-uppercase op-50 flex-grow-1">{{ title }}</h5>
+                <template v-if="static === undefined">
+                <button class="btn btn-light-h340" data-dismiss="modal" aria-label="Close">
+                    <fa fw icon="times"/>
+                </button>
+                </template>
+            </div>
+            <div class="modal-body">
+                <slot></slot>
+            </div>
+        </div>
+    </div>
+</div>
+    `
+});
 
-    desc = this.showdown.makeHtml(desc)
-      .replace(/<.*?>/gmi, '')
-      .trim()
-      .substr(0, 160)
-      .split(/\n\n/)[0]
-      .trim();
+Vue.component('help', {
+    template: /*html*/ `
+<div>
+    <div class="op-75 text-condensed text-block" v-html="$root.parseMd($root.md['help'])"></div>
+</div>
+    `
+})
 
-    return desc;
-  };
+Vue.component('share', {
+    template: /*html*/ `
+<div>
+    <div class="d-flex align-items-center">
+    <div class="flex-even"><div class="px-2 small font-weight-bold" v-if="$root.entry.meta.public"><a target="_blank" :href="$root.location.origin + '/v/' + $root.entry.meta.url ">scribe.pf2.tools/v/{{ $root.entry.meta.url }}</a></div></div>
+    <div class="flex-even"><button class="btn btn-light-h220 text-uppercase font-weight-bold w-100" :class="{'active': $root.entry.meta.public}" @click="$root.entry.meta.public = 1"><fa fw icon="eye"/> sharing enabled</button></div>
+    <div class="flex-even"><button class="btn btn-light-h20 text-uppercase font-weight-bold w-100" :class="{'active': !$root.entry.meta.public}" @click="$root.entry.meta.public = 0"><fa fw icon="eye-slash"/> sharing disabled</button></div>
+    </div>
+    <div class="small op-50 p-2" v-html="$root.parseMd($root.md['share'])"></div>
+</div>
+    `
+})
 
-  this.pages = function() {
-    this.loadcount;
-    // console.log('-- Rendering Pages', this.loadcount);
+Vue.component('settings', {
+    template: /*html*/`
+    <div>
+    <div class="d-flex align-items-center">
+    <div class="text-right flex-even p-1">Export Background Color</div>
+    <div class="flex-even p-1">
+    <div class="d-inline-block">#</div>
+    <div class="d-inline-block"><input placeholder="ffffffff" class="form-control form-control-sm text-monospace w-100" v-model="$root.localsettings.exportbg"></div>
+    </div>
+    <div class="flex-even p-1" :style="'background: #' + ($root.localsettings.exportbg || 'fff')">
+    &nbsp;
+    </div>
+    </div>
 
-    let self = this;
-    let str = this.body.trim();
-    str = str.replace(/(\r\n|\n|\r)/gmi, '\n'); // new line nightmare
+    <div class="d-flex align-items-center">
+    <div class="text-right flex-even p-1">Force A4 Page Height</div>
+    <div class="text-right flex-even p-1">
+        <button class="btn btn-light-h220 text-uppercase w-100 text-center font-weight-bold" @click="$root.options.a4 = true" :class="$root.options.a4 ? '' : 'op-25'"><fa fw icon="check"/> Enabled</button>
+    </div>
+    <div class="text-right flex-even p-1">
+        <button class="btn btn-light-h10 text-uppercase w-100 text-center font-weight-bold" @click="$root.options.a4 = false" :class="$root.options.a4 ? 'op-25' : ''"><fa fw icon="times"/> Disabled</button>
+    </div>
 
-    let inclimit = 100;
+    </div>
+    </div>
 
-    for (let incs = 0; incs < inclimit; incs++) { // Includes can include other includes...?!
-      let m = [...str.matchAll(/^https?:\/\/(.+?)\.pf2\.tools\/v\/(.+?)(?: |$)/gmi)];
+    </div>
+    `
+})
 
-      for (let i of m) {
-        this.fetchItem(i[0]);
-      }
+Vue.component('printing', {
+    template: /*html*/ `
+<div>
+Printing Settings
 
-      str = str.replace(/^https?:\/\/.+?\.pf2\.tools\/v\/.+?(?: |$)/gmi, (m) => {
-        return self.remotedata[m] || `<div style="padding:0.25em;border:1px dashed #0002"><div style="font-size:10px;text-align:center">loading <a href="${m}" target="_blank">${m}</a></div><div class="mx-auto lds-roller"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>`;
-      })
+PDF
+Set margins to none. Turn on background images.
 
-      if (!m.length)
-        break;
-    }
+Paper
+Turn off background images.
+</div>
+`
+});
+
+Vue.component('account', {
+    data() {
+        return {
+            confirmDelete: ''
+        }
+    },
+    template: /*html*/ `
+<div>
+    <div class="p-1 mb-2">
+    <h5 class="text-uppercase">Entries</h5>
+    <div v-for="e of $root.entries" class="text-condensed"><fa fw icon="file"/> {{ e.name || 'Untitled'}}</div>
+    </div>
+    <div class="p-1 mb-2">
+    <h5 class="text-uppercase">Actions</h5>
+    <button class="btn text-uppercase btn-light-h220 font-weight-bold"><fa fw icon="file-plus"/> new</button>
+    </div>
+    <div class="p-1">
+    <h5 class="text-uppercase">Delete Account</h5>
+    <div class="d-flex align-items-center">
+    <div class="flex-even small">Type delete here to confirm:</div>
+    <div class="flex-even"><input class="form-control text-uppercase text-h10-main" v-model="confirmDelete"></div>
+    <div class="flex-even"><button v-if="confirmDelete.toLowerCase() == 'delete'" class="btn text-uppercase btn-light-h10 font-weight-bold w-100" @click="terminateData"><fa fw icon="trash"/>delete account</button></div>
+    </div>
+</div>
+</div>
+    `
+})
+
+Vue.component('delete', {
+    template: /*html*/ `
+<div>
+    <p>Are you sure? This action cannot be undone.</p>
+    <div>
+    <button class="btn btn-light-h10 text-uppercase font-weight-bold w-100 mt-2" @click="$root.deleteData"><fa fw icon="trash"/>delete entry</button>
+    </div>
+</div>
+    `
+})
+
+Vue.component('toc', {
+    data() {
+        return {
+            toc: []
+        }
+    },
+    computed: {
+        content() {
+            return this.$root.toc;
+            let result = [];
+            return result;
+
+            let body = this.$root.entry.body.trim().replace(/item *\([\s\S]+?\)/gmi, '');
+            let lines = this.$root.entry.body.trim().split(/\n/);
+            let head = false;
+            let item = false;
+            for (let i of lines) {
+                if (!i)
+                    continue;
+                if (i.match(/^head *\(/gmi)) {
+                    head = true;
+                }
+                if (i.match(/^item *\(/gmi)) {
+                    item = true;
+                }
+                if (i.match(/^\)/gmi)) {
+                    head = false;
+                    item = false;
+                }
+                let match = [...i.matchAll(/^(\#+) *(.*)$/gmi)];
+                if (match.length) {
+                    let m = match[0];
+                    if (m[1].length < 3)
+                        result.push({
+                            id: m[2].toLowerCase().replace(/\W/, ''),
+                            text: m[2],
+                            head: head,
+                            item: item,
+                            normal: !head && !item,
+                            level: m[1].length - 1
+                        })
+                }
+            }
+
+            return result;
+        }
+    },
+    template: /*html*/`
+<div class="p-1">
+<div class="text-uppercase font-weight-bold mb-2 text-title op-50 pointer" @click="$root.goto()">table of contents</div>
+<div v-for="i of content" class="mb-2 text-title" :style="'padding-left: ' + i.depth + 'rem'">
+<a @click="$root.goto(i.id + '-' + i.index)" class="pointer" :class="i.depth === 0 ? 'font-weight-bold' : ''" :style="i.depth === 0 ? 'font-size: 1.2rem' : ''">{{i.key}}</a>
+</div>
+<div style="height: 20px"></div>
+</div>
+    `
+})
+
+Vue.component('scribe-page', {
+    props: ['i'],
+    template: /*html*/ `
+<div v-html="$root.html(i)"></div>
+`
+});
+
+vm = new Vue({
+    el: '#app',
+    data: {
+        bigError: '',
+        loadcount: 0,
+        watermark: '',
+        title: '',
+        stickies: [],
+        editor: null,
+        input: '',
+        targetId: '',
+        stylesheet: '',
+        md: {},
+        isLoaded: 0,
+        toc: [],
+        entries: [],
+        options: {
+            a4: false
+        },
+        example: new Entry('ex', 'Example', examplemd),
+        route: '',
+        home: 'edit',
+        modalId: '',
+        cssdata: null,
+        loadedtext: examplemd,
+        location: window.location,
+        remotedata: {},
+        bwp: 0,
+        bgstyle: '',
+        tag: '',
+        filtername: '',
+        tagfilter: [],
+
+        pendingfetches: 0,
+        completedfetches: 0,
+
+        localsettings: {
+            exportbg: ''
+        },
+    },
+    computed: {
+        isGuest() {
+            return !_user.sub;
+        },
+        alltags() {
+            let tags = [...this.tagfilter];
+            for (let m of this.entries) {
+                if (m.tags)
+                    tags.push(...m.tags);
+            }
+            tags = _.uniq(tags.map(o => o.toLowerCase())).sort();
+            return tags;
+        },
+        filtered() {
+            let entries = [];
+            if (this.tagfilter.length) {
+                entries = this.entries.filter(m => _.intersection(m.tags, this.tagfilter).length);
+            }
+            else {
+                entries = this.entries;
+            }
+            if (this.filtername) {
+                entries = entries.filter(m => m.name.toUpperCase().includes(this.filtername.toUpperCase()));
+            }
+            return _.sortBy(entries, m => m.name.toLowerCase(), 'desc');
+        },
+        entry() {
+            if (!this.targetId) {
+                this.example.body = examplemd;
+                this.example.name = 'Example';
+                this.input = examplemd;
+            }
+
+            return this.entries.find(e => e.id == this.targetId) || this.example;
+        },
+        metadescription() {
+            if (!this.entry) {
+                return "Create and format documents and homebrew content for Pathfinder Second Edition. (This website is not published, endorsed, or specifically approved by Paizo Inc.)";
+            }
+
+            let desc = this.pages.join('\n')
+                .replace(/^head.*/gmi, '')
+                .replace(/^\).*/gmi, '')
+                .replace(/^\w+ *\([\s\S]+?\n\)/gmi, '')
+
+            desc = showdown.makeHtml(desc)
+                .replace(/<.*?>/gmi, '')
+                .trim()
+                .substr(0, 160)
+                .split(/\n\n/)[0]
+                .trim();
+
+            return desc;
+        },
+        pages() {
+            if (!this.entry)
+                return [];
+
+            this.loadcount;
+            // console.log('-- Rendering Pages', this.loadcount);
+
+            let self = this;
+            let str = this.entry.body.trim();
+            str = str.replace(/(\r\n|\n|\r)/gmi, '\n'); // new line nightmare
+
+            let inclimit = 100;
+
+            for (let incs = 0; incs < inclimit; incs++) { // Includes can include other includes...?!
+                let m = [...str.matchAll(/^https?:\/\/(.+?)\.pf2\.tools\/v\/(.+?)(?: |$)/gmi)];
+
+                for (let i of m) {
+                    this.fetchItem(i[0]);
+                }
+
+                str = str.replace(/^https?:\/\/.+?\.pf2\.tools\/v\/.+?(?: |$)/gmi, (m) => {
+                    return self.remotedata[m] || `<div style="padding:0.25em;border:1px dashed #0002"><div style="font-size:10px;text-align:center">loading <a href="${m}" target="_blank">${m}</a></div><div class="mx-auto lds-roller"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>`;
+                })
+
+                if (!m.length)
+                    break;
+            }
 
 
 
-    let resetStyles = str.match(/^reset$/gmi);
-    if (resetStyles) {
-      str = str.replace(/^reset$/gmi, '');
-      this.stylesheet = '';
-    }
-    else {
-      this.stylesheet = scribecss;
-    }
+            let resetStyles = str.match(/^reset$/gmi);
+            if (resetStyles) {
+                str = str.replace(/^reset$/gmi, '');
+                this.stylesheet = '';
+            }
+            else {
+                this.stylesheet = scribecss;
+            }
 
-    let usePageNumbers = str.match(/^pagenumbers$/gmi);
-    if (usePageNumbers) {
-      str = str.replace(/^pagenumbers$/gmi, '');
-      this.stylesheet += pagecss;
-    }
+            let usePageNumbers = str.match(/^pagenumbers$/gmi);
+            if (usePageNumbers) {
+                str = str.replace(/^pagenumbers$/gmi, '');
+                this.stylesheet += pagecss;
+            }
 
-    let cssmatch = [...str.matchAll(/^css *\( *\n([\s\S]+?)\n\)/gmi)];
-    for (let i of cssmatch) {
-      this.stylesheet += i[1];
-    }
-    str = str.replace(/^css *\([\s\S]+?\n\)/gmi, '');
-    this.stylesheet = this.stylesheet
-      .replace(/https?[:\/\w.]+/gmi, '')
-      .replace(/{[\s\S]*?}/gmi, (m) => {
-        return m.replace(/,/gmi, '##%%##');
-      })
-      .replace(/(\}*)([^'#;\n]+?)\s*(\{|\,)/gmi, '$1#result $2$3')
-      .replace(/\;/gmi, '!important;')
-      .replace(/!important!important/gmi, '!important')
-      .replace(/#result#result/gmi, '#result')
-      .replace(/##%%##/gmi, ',');
+            let cssmatch = [...str.matchAll(/^css *\( *\n([\s\S]+?)\n\)/gmi)];
+            for (let i of cssmatch) {
+                this.stylesheet += i[1];
+            }
+            str = str.replace(/^css *\([\s\S]+?\n\)/gmi, '');
+            this.stylesheet = this.stylesheet
+                .replace(/https?[:\/\w.]+/gmi, '')
+                .replace(/{[\s\S]*?}/gmi, (m) => {
+                    return m.replace(/,/gmi, '##%%##');
+                })
+                .replace(/(\}*)([^'#;\n]+?)\s*(\{|\,)/gmi, '$1#result $2$3')
+                .replace(/\;/gmi, '!important;')
+                .replace(/!important!important/gmi, '!important')
+                .replace(/#result#result/gmi, '#result')
+                .replace(/##%%##/gmi, ',');
 
-    this.watermark = '';
-    this.title = '';
-    this.bgstyle = '';
+            this.watermark = '';
+            this.title = '';
+            this.bgstyle = '';
 
-    let fontsmatch = [...str.matchAll(/^fonts *\( *\n([\s\S]+?)\n\)/gmi)];
-    for (let m of fontsmatch) {
-      this.stylesheet = "@import url('https://fonts.googleapis.com/css2?family=" + m[1].split(/\n+/gi).join('&family=') + "&display=swap');\n" + this.stylesheet;
-    }
-    str = str.replace(/^fonts *\([\s\S]+?\n\)/gmi, '');
+            let fontsmatch = [...str.matchAll(/^fonts *\( *\n([\s\S]+?)\n\)/gmi)];
+            for (let m of fontsmatch) {
+                this.stylesheet = "@import url('https://fonts.googleapis.com/css2?family=" + m[1].split(/\n+/gi).join('&family=') + "&display=swap');\n" + this.stylesheet;
+            }
+            str = str.replace(/^fonts *\([\s\S]+?\n\)/gmi, '');
 
-    let bgmatch = [...str.matchAll(/^bg *\( *\n([\s\S]+?)\n\)/gmi)];
-    for (let m of bgmatch) {
-      this.bgstyle = m[1];
-    }
-    str = str.replace(/^bg *\([\s\S]+?\n\)/gmi, '');
+            let bgmatch = [...str.matchAll(/^bg *\( *\n([\s\S]+?)\n\)/gmi)];
+            for (let m of bgmatch) {
+                this.bgstyle = m[1];
+            }
+            str = str.replace(/^bg *\([\s\S]+?\n\)/gmi, '');
 
-    let watermarkmatch = [...str.matchAll(/^watermark *\( *\n([\s\S]+?)\n\)/gmi)];
-    for (let i of watermarkmatch) {
-      this.watermark += i[1];
-    }
-    str = str.replace(/^watermark *\([\s\S]+?\n\)/gmi, '');
+            let watermarkmatch = [...str.matchAll(/^watermark *\( *\n([\s\S]+?)\n\)/gmi)];
+            for (let i of watermarkmatch) {
+                this.watermark += i[1];
+            }
+            str = str.replace(/^watermark *\([\s\S]+?\n\)/gmi, '');
 
-    let titlematch = [...str.matchAll(/^title *\( *\n([\s\S]+?)\n\)/gmi)];
-    for (let i of titlematch) {
-      this.title += i[1];
-    }
-    str = str.replace(/^title *\([\s\S]+?\n\)/gmi, '');
-
-
-
-    let reference = [];
-    let refmatch = [...str.matchAll(/^(\w+) *\{([\s\S]+?)\n\}/gmi)]
-    for (let i of refmatch) {
-      reference.push({
-        key: i[1].trim(),
-        value: i[2].trim()
-      });
-    }
-    str = str.replace(/^\w+ *\{ *\n/gmi, '').replace(/^\} *\n/gmi, '');
-
-    for (let i of reference) {
-      str = str.split('{{' + i.key + '}}').join(i.value);
-    }
-
-    str = str.replace(/<!--[\s\S]*?-->/gmi, '');
-
-    str = str.split(/^\%/mi)[0].trim();
-
-    // let toc = [];
-    // let tocmatch = [...str.matchAll(/^\#+.+?\(\((\+*)(.+?)\)\)/gmi)];
-    // let n = 0;
-    // for (let i of tocmatch) {
-    //   toc.push({
-    //     depth: i[1].length,
-    //     match: i[1] + i[2],
-    //     key: i[2],
-    //     index: n
-    //   })
-    //   n += 1;
-    // }
-    // for (let i of toc) {
-    //   i.id = i.key.toLowerCase().replace(/\W/gmi, '-');
-    //   str = str.replace('((' + i.match + '))', `<a id="toc-${i.id}"></a><a id="toc-${i.id}-${i.index}"></a>`);
-    //   // str = str.split('((' + i.match + '))').join(`<a id="toc-${i.id}"></a><a id="toc-${i.id}-${i.index}"></a>`);
-    // }
-
-    // this.$root.toc = toc;
-
-    str = str.replace(/\[(.+?)\]\(\#(.+?)\)/gmi, '<a class="pointer" href="#" data-label="$2">$1</a>');
+            let titlematch = [...str.matchAll(/^title *\( *\n([\s\S]+?)\n\)/gmi)];
+            for (let i of titlematch) {
+                this.title += i[1];
+            }
+            str = str.replace(/^title *\([\s\S]+?\n\)/gmi, '');
 
 
 
-    return str.split(/^(?:\=|page)\s*$/mi).map(o => o.trim());
-  }
+            let reference = [];
+            let refmatch = [...str.matchAll(/^(\w+) *\{([\s\S]+?)\n\}/gmi)]
+            for (let i of refmatch) {
+                reference.push({
+                    key: i[1].trim(),
+                    value: i[2].trim()
+                });
+            }
+            str = str.replace(/^\w+ *\{ *\n/gmi, '').replace(/^\} *\n/gmi, '');
 
-}
-exports.Entry = Entry
+            for (let i of reference) {
+                str = str.split('{{' + i.key + '}}').join(i.value);
+            }
 
-// Vue.prototype.ace = ace;
-// Vue.prototype.window = window;
-// Vue.prototype.showdown = showdown;
-// Vue.prototype.images = images;
-// Vue.prototype.snippets = snippets;
-// Vue.prototype.Util = Util;
-// 
-// Vue.component('fa', {
-//     props: ['icon', 'fw', 's', 'r', 'd', 'l', 'w'],
-//     computed: {
-//         set() {
-//             if (this.r !== undefined)
-//                 return 'far'
-//             if (this.d !== undefined)
-//                 return 'fad'
-//             if (this.l !== undefined)
-//                 return 'fal'
-//             return 'fas'
-//         }
-//     },
-//     template: /*html*/ `
-// <i :style="{'w': w + 'px'}" :class="[{'fa-fw': fw !== undefined},'fa-' + icon, set]"></i>
-//     `
-// });
+            str = str.replace(/<!--[\s\S]*?-->/gmi, '');
 
-// Vue.component('modal', {
-//     props: ['title', 'id', 'mw', 'subtype', 'static'],
-//     template: /*html*/ `
-// <div class="modal fade" tabindex="-1" role="dialog" :id="id">
-//     <div class="modal-dialog shadow" role="document" :style="{'max-width': mw + 'px'}">
-//         <div class="modal-content">
-//             <div class="modal-header d-flex align-items-center">
-//                 <h5 class="modal-title text-uppercase op-50 flex-grow-1">{{ title }}</h5>
-//                 <template v-if="static === undefined">
-//                 <button class="btn btn-light-h340" data-dismiss="modal" aria-label="Close">
-//                     <fa fw icon="times"/>
-//                 </button>
-//                 </template>
-//             </div>
-//             <div class="modal-body">
-//                 <slot></slot>
-//             </div>
-//         </div>
-//     </div>
-// </div>
-//     `
-// });
+            str = str.split(/^\%/mi)[0].trim();
 
-// Vue.component('help', {
-//     template: /*html*/ `
-// <div>
-//     <div class="op-75 text-condensed text-block" v-html="$root.parseMd($root.md['help'])"></div>
-// </div>
-//     `
-// })
-// 
-// Vue.component('share', {
-//     template: /*html*/ `
-// <div>
-//     <div class="d-flex align-items-center">
-//     <div class="flex-even"><div class="px-2 small font-weight-bold" v-if="$root.entry.meta.public"><a target="_blank" :href="$root.location.origin + '/v/' + $root.entry.meta.url ">scribe.pf2.tools/v/{{ $root.entry.meta.url }}</a></div></div>
-//     <div class="flex-even"><button class="btn btn-light-h220 text-uppercase font-weight-bold w-100" :class="{'active': $root.entry.meta.public}" @click="$root.entry.meta.public = 1"><fa fw icon="eye"/> sharing enabled</button></div>
-//     <div class="flex-even"><button class="btn btn-light-h20 text-uppercase font-weight-bold w-100" :class="{'active': !$root.entry.meta.public}" @click="$root.entry.meta.public = 0"><fa fw icon="eye-slash"/> sharing disabled</button></div>
-//     </div>
-//     <div class="small op-50 p-2" v-html="$root.parseMd($root.md['share'])"></div>
-// </div>
-//     `
-// })
-// 
-// Vue.component('settings', {
-//     template: /*html*/`
-//     <div>
-//     <div class="d-flex align-items-center">
-//     <div class="text-right flex-even p-1">Export Background Color</div>
-//     <div class="flex-even p-1">
-//     <div class="d-inline-block">#</div>
-//     <div class="d-inline-block"><input placeholder="ffffffff" class="form-control form-control-sm text-monospace w-100" v-model="$root.localsettings.exportbg"></div>
-//     </div>
-//     <div class="flex-even p-1" :style="'background: #' + ($root.localsettings.exportbg || 'fff')">
-//     &nbsp;
-//     </div>
-//     </div>
-// 
-//     <div class="d-flex align-items-center">
-//     <div class="text-right flex-even p-1">Force A4 Page Height</div>
-//     <div class="text-right flex-even p-1">
-//         <button class="btn btn-light-h220 text-uppercase w-100 text-center font-weight-bold" @click="$root.options.a4 = true" :class="$root.options.a4 ? '' : 'op-25'"><fa fw icon="check"/> Enabled</button>
-//     </div>
-//     <div class="text-right flex-even p-1">
-//         <button class="btn btn-light-h10 text-uppercase w-100 text-center font-weight-bold" @click="$root.options.a4 = false" :class="$root.options.a4 ? 'op-25' : ''"><fa fw icon="times"/> Disabled</button>
-//     </div>
-// 
-//     </div>
-//     </div>
-// 
-//     </div>
-//     `
-// })
-// 
-// Vue.component('printing', {
-//     template: /*html*/ `
-// <div>
-// Printing Settings
-// 
-// PDF
-// Set margins to none. Turn on background images.
-// 
-// Paper
-// Turn off background images.
-// </div>
-// `
-// });
-// 
-// Vue.component('account', {
-//     data() {
-//         return {
-//             confirmDelete: ''
-//         }
-//     },
-//     template: /*html*/ `
-// <div>
-//     <div class="p-1 mb-2">
-//     <h5 class="text-uppercase">Entries</h5>
-//     <div v-for="e of $root.entries" class="text-condensed"><fa fw icon="file"/> {{ e.name || 'Untitled'}}</div>
-//     </div>
-//     <div class="p-1 mb-2">
-//     <h5 class="text-uppercase">Actions</h5>
-//     <button class="btn text-uppercase btn-light-h220 font-weight-bold"><fa fw icon="file-plus"/> new</button>
-//     </div>
-//     <div class="p-1">
-//     <h5 class="text-uppercase">Delete Account</h5>
-//     <div class="d-flex align-items-center">
-//     <div class="flex-even small">Type delete here to confirm:</div>
-//     <div class="flex-even"><input class="form-control text-uppercase text-h10-main" v-model="confirmDelete"></div>
-//     <div class="flex-even"><button v-if="confirmDelete.toLowerCase() == 'delete'" class="btn text-uppercase btn-light-h10 font-weight-bold w-100" @click="terminateData"><fa fw icon="trash"/>delete account</button></div>
-//     </div>
-// </div>
-// </div>
-//     `
-// })
-// 
-// Vue.component('delete', {
-//     template: /*html*/ `
-// <div>
-//     <p>Are you sure? This action cannot be undone.</p>
-//     <div>
-//     <button class="btn btn-light-h10 text-uppercase font-weight-bold w-100 mt-2" @click="$root.deleteData"><fa fw icon="trash"/>delete entry</button>
-//     </div>
-// </div>
-//     `
-// })
-// 
-// Vue.component('toc', {
-//     data() {
-//         return {
-//             toc: []
-//         }
-//     },
-//     computed: {
-//         content() {
-//             return this.$root.toc;
-//             let result = [];
-//             return result;
-// 
-//             let body = this.$root.entry.body.trim().replace(/item *\([\s\S]+?\)/gmi, '');
-//             let lines = this.$root.entry.body.trim().split(/\n/);
-//             let head = false;
-//             let item = false;
-//             for (let i of lines) {
-//                 if (!i)
-//                     continue;
-//                 if (i.match(/^head *\(/gmi)) {
-//                     head = true;
-//                 }
-//                 if (i.match(/^item *\(/gmi)) {
-//                     item = true;
-//                 }
-//                 if (i.match(/^\)/gmi)) {
-//                     head = false;
-//                     item = false;
-//                 }
-//                 let match = [...i.matchAll(/^(\#+) *(.*)$/gmi)];
-//                 if (match.length) {
-//                     let m = match[0];
-//                     if (m[1].length < 3)
-//                         result.push({
-//                             id: m[2].toLowerCase().replace(/\W/, ''),
-//                             text: m[2],
-//                             head: head,
-//                             item: item,
-//                             normal: !head && !item,
-//                             level: m[1].length - 1
-//                         })
-//                 }
-//             }
-// 
-//             return result;
-//         }
-//     },
-//     template: /*html*/`
-// <div class="p-1">
-// <div class="text-uppercase font-weight-bold mb-2 text-title op-50 pointer" @click="$root.goto()">table of contents</div>
-// <div v-for="i of content" class="mb-2 text-title" :style="'padding-left: ' + i.depth + 'rem'">
-// <a @click="$root.goto(i.id + '-' + i.index)" class="pointer" :class="i.depth === 0 ? 'font-weight-bold' : ''" :style="i.depth === 0 ? 'font-size: 1.2rem' : ''">{{i.key}}</a>
-// </div>
-// <div style="height: 20px"></div>
-// </div>
-//     `
-// })
-// 
-// Vue.component('scribe-page', {
-//     props: ['i'],
-//     template: /*html*/ `
-// <div v-html="$root.html(i)"></div>
-// `
-// });
+            let toc = [];
+            let tocmatch = [...str.matchAll(/^\#+.+?\(\((\+*)(.+?)\)\)/gmi)];
+            let n = 0;
+            for (let i of tocmatch) {
+                toc.push({
+                    depth: i[1].length,
+                    match: i[1] + i[2],
+                    key: i[2],
+                    index: n
+                })
+                n += 1;
+            }
+            for (let i of toc) {
+                i.id = i.key.toLowerCase().replace(/\W/gmi, '-');
+                str = str.replace('((' + i.match + '))', `<a id="toc-${i.id}"></a><a id="toc-${i.id}-${i.index}"></a>`);
+                // str = str.split('((' + i.match + '))').join(`<a id="toc-${i.id}"></a><a id="toc-${i.id}-${i.index}"></a>`);
+            }
 
-// vm = new Vue({
-//     el: '#app',
-//     data: {
-//         bigError: '',
-//         loadcount: 0,
-//         watermark: '',
-//         title: '',
-//         stickies: [],
-//         editor: null,
-//         input: '',
-//         targetId: '',
-//         stylesheet: '',
-//         md: {},
-//         isLoaded: 0,
-//         toc: [],
-//         entries: [],
-//         options: {
-//             a4: false
-//         },
-//         example: new Entry('ex', 'Example', examplemd),
-//         route: '',
-//         home: 'edit',
-//         modalId: '',
-//         cssdata: null,
-//         loadedtext: examplemd,
-//         location: window.location,
-//         remotedata: {},
-//         bwp: 0,
-//         bgstyle: '',
-//         tag: '',
-//         filtername: '',
-//         tagfilter: [],
-// 
-//         pendingfetches: 0,
-//         completedfetches: 0,
-// 
-//         localsettings: {
-//             exportbg: ''
-//         },
-//     },
-//     computed: {
-//         isGuest() {
-//             return !_user.sub;
-//         },
-//         alltags() {
-//             let tags = [...this.tagfilter];
-//             for (let m of this.entries) {
-//                 if (m.tags)
-//                     tags.push(...m.tags);
-//             }
-//             tags = _.uniq(tags.map(o => o.toLowerCase())).sort();
-//             return tags;
-//         },
-//         filtered() {
-//             let entries = [];
-//             if (this.tagfilter.length) {
-//                 entries = this.entries.filter(m => _.intersection(m.tags, this.tagfilter).length);
-//             }
-//             else {
-//                 entries = this.entries;
-//             }
-//             if (this.filtername) {
-//                 entries = entries.filter(m => m.name.toUpperCase().includes(this.filtername.toUpperCase()));
-//             }
-//             return _.sortBy(entries, m => m.name.toLowerCase(), 'desc');
-//         },
-//         entry() {
-//             if (!this.targetId) {
-//                 this.example.body = examplemd;
-//                 this.example.name = 'Example';
-//                 this.input = examplemd;
-//             }
-// 
-//             return this.entries.find(e => e.id == this.targetId) || this.example;
-//         },
-//         pages() {
-//             if (!this.entry)
-//                 return [];
-// 
-//             this.loadcount;
-//             // console.log('-- Rendering Pages', this.loadcount);
-// 
-//             let self = this;
-//             let str = this.entry.body.trim();
-//             str = str.replace(/(\r\n|\n|\r)/gmi, '\n'); // new line nightmare
-// 
-//             let inclimit = 100;
-// 
-//             for (let incs = 0; incs < inclimit; incs++) { // Includes can include other includes...?!
-//                 let m = [...str.matchAll(/^https?:\/\/(.+?)\.pf2\.tools\/v\/(.+?)(?: |$)/gmi)];
-// 
-//                 for (let i of m) {
-//                     this.fetchItem(i[0]);
-//                 }
-// 
-//                 str = str.replace(/^https?:\/\/.+?\.pf2\.tools\/v\/.+?(?: |$)/gmi, (m) => {
-//                     return self.remotedata[m] || `<div style="padding:0.25em;border:1px dashed #0002"><div style="font-size:10px;text-align:center">loading <a href="${m}" target="_blank">${m}</a></div><div class="mx-auto lds-roller"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>`;
-//                 })
-// 
-//                 if (!m.length)
-//                     break;
-//             }
-// 
-// 
-// 
-//             let resetStyles = str.match(/^reset$/gmi);
-//             if (resetStyles) {
-//                 str = str.replace(/^reset$/gmi, '');
-//                 this.stylesheet = '';
-//             }
-//             else {
-//                 this.stylesheet = scribecss;
-//             }
-// 
-//             let usePageNumbers = str.match(/^pagenumbers$/gmi);
-//             if (usePageNumbers) {
-//                 str = str.replace(/^pagenumbers$/gmi, '');
-//                 this.stylesheet += pagecss;
-//             }
-// 
-//             let cssmatch = [...str.matchAll(/^css *\( *\n([\s\S]+?)\n\)/gmi)];
-//             for (let i of cssmatch) {
-//                 this.stylesheet += i[1];
-//             }
-//             str = str.replace(/^css *\([\s\S]+?\n\)/gmi, '');
-//             this.stylesheet = this.stylesheet
-//                 .replace(/https?[:\/\w.]+/gmi, '')
-//                 .replace(/{[\s\S]*?}/gmi, (m) => {
-//                     return m.replace(/,/gmi, '##%%##');
-//                 })
-//                 .replace(/(\}*)([^'#;\n]+?)\s*(\{|\,)/gmi, '$1#result $2$3')
-//                 .replace(/\;/gmi, '!important;')
-//                 .replace(/!important!important/gmi, '!important')
-//                 .replace(/#result#result/gmi, '#result')
-//                 .replace(/##%%##/gmi, ',');
-// 
-//             this.watermark = '';
-//             this.title = '';
-//             this.bgstyle = '';
-// 
-//             let fontsmatch = [...str.matchAll(/^fonts *\( *\n([\s\S]+?)\n\)/gmi)];
-//             for (let m of fontsmatch) {
-//                 this.stylesheet = "@import url('https://fonts.googleapis.com/css2?family=" + m[1].split(/\n+/gi).join('&family=') + "&display=swap');\n" + this.stylesheet;
-//             }
-//             str = str.replace(/^fonts *\([\s\S]+?\n\)/gmi, '');
-// 
-//             let bgmatch = [...str.matchAll(/^bg *\( *\n([\s\S]+?)\n\)/gmi)];
-//             for (let m of bgmatch) {
-//                 this.bgstyle = m[1];
-//             }
-//             str = str.replace(/^bg *\([\s\S]+?\n\)/gmi, '');
-// 
-//             let watermarkmatch = [...str.matchAll(/^watermark *\( *\n([\s\S]+?)\n\)/gmi)];
-//             for (let i of watermarkmatch) {
-//                 this.watermark += i[1];
-//             }
-//             str = str.replace(/^watermark *\([\s\S]+?\n\)/gmi, '');
-// 
-//             let titlematch = [...str.matchAll(/^title *\( *\n([\s\S]+?)\n\)/gmi)];
-//             for (let i of titlematch) {
-//                 this.title += i[1];
-//             }
-//             str = str.replace(/^title *\([\s\S]+?\n\)/gmi, '');
-// 
-// 
-// 
-//             let reference = [];
-//             let refmatch = [...str.matchAll(/^(\w+) *\{([\s\S]+?)\n\}/gmi)]
-//             for (let i of refmatch) {
-//                 reference.push({
-//                     key: i[1].trim(),
-//                     value: i[2].trim()
-//                 });
-//             }
-//             str = str.replace(/^\w+ *\{ *\n/gmi, '').replace(/^\} *\n/gmi, '');
-// 
-//             for (let i of reference) {
-//                 str = str.split('{{' + i.key + '}}').join(i.value);
-//             }
-// 
-//             str = str.replace(/<!--[\s\S]*?-->/gmi, '');
-// 
-//             str = str.split(/^\%/mi)[0].trim();
-// 
-//             let toc = [];
-//             let tocmatch = [...str.matchAll(/^\#+.+?\(\((\+*)(.+?)\)\)/gmi)];
-//             let n = 0;
-//             for (let i of tocmatch) {
-//                 toc.push({
-//                     depth: i[1].length,
-//                     match: i[1] + i[2],
-//                     key: i[2],
-//                     index: n
-//                 })
-//                 n += 1;
-//             }
-//             for (let i of toc) {
-//                 i.id = i.key.toLowerCase().replace(/\W/gmi, '-');
-//                 str = str.replace('((' + i.match + '))', `<a id="toc-${i.id}"></a><a id="toc-${i.id}-${i.index}"></a>`);
-//                 // str = str.split('((' + i.match + '))').join(`<a id="toc-${i.id}"></a><a id="toc-${i.id}-${i.index}"></a>`);
-//             }
-// 
-//             this.$root.toc = toc;
-// 
-//             str = str.replace(/\[(.+?)\]\(\#(.+?)\)/gmi, '<a class="pointer" href="#" data-label="$2">$1</a>');
-// 
-// 
-// 
-//             return str.split(/^(?:\=|page)\s*$/mi).map(o => o.trim());
-//         },
-// 
-//     },
-//     watch: {
-//         localsettings: {
-//             handler(v) {
-//                 localStorage.setItem('localsettings', JSON.stringify(this.localsettings));
-//             },
-//             deep: true
-//         },
-//         options: {
-//             deep: true,
-//             handler(v) {
-//                 localStorage.setItem('options', JSON.stringify(this.options));
-//             }
-//         },
-//         input(v) {
-//             document.title = this.entry.name || 'PF2e Scribe Tool'
-//             if (this.editor) {
-//                 if (this.editor.getValue() !== v) {
-//                     this.editor.setValue(v, 1);
-//                     this.editor.session.getUndoManager().reset();
-//                 }
-//                 else {
-//                     this.entry.body = v;
-//                 }
-// 
-//                 requestAnimationFrame(() => {
-//                     requestAnimationFrame(() => {
-//                         this.editor.resize(true);
-//                     })
-//                 })
-//             }
-//         },
-//         targetId(v) {
-//             document.title = this.entry.name || 'PF2e Scribe Tool'
-//             this.pendingfetches = 0;
-//             this.completedfetches = 0;
-//             this.input = this.entry.body;
-//             this.loadedtext = this.entry.body;
-//             if (this.editor) {
-//                 this.editor.session.getUndoManager().reset();
-//             }
-//         },
-//         entries: {
-//             handler(v) {
-//                 this.saveData();
-//             },
-//             deep: true
-//         },
-//         route(v) {
-//             if (!v) {
-//                 this.isLoaded = false;
-//                 this.editor = null;
-//                 return;
-//             }
-// 
-//             if (v != 'edit') {
-//                 this.editor = null;
-//             }
-// 
-//             requestAnimationFrame(() => {
-//                 requestAnimationFrame(() => {
-//                     if (v == 'edit')
-//                         this.mountAce();
-//                 })
-//             })
-//         }
-//     },
-//     methods: {
-//         toggleFilter(id) {
-//             if (this.isFilter(id)) {
-//                 this.removeFilter(id);
-//             }
-//             else {
-//                 this.addFilter(id);
-//             }
-//         },
-//         addFilter(id) {
-//             if (!this.isFilter(id)) {
-//                 this.tagfilter.push(id.toLowerCase());
-//             }
-//         },
-//         removeFilter(id) {
-//             if (this.isFilter(id)) {
-//                 this.tagfilter.splice(this.tagfilter.indexOf(id.toLowerCase()), 1);
-//             }
-//         },
-//         isFilter(id) {
-//             return this.tagfilter.includes(id.toLowerCase());
-//         },
-//         addTag(id) {
-//             id = id.trim();
-//             if (!id)
-//                 return;
-//             if (!this.entry.tags)
-//                 this.entry.tags = [];
-//             if (this.entry.tags.includes(id.toLowerCase()))
-//                 return;
-//             this.entry.tags.push(id.toLowerCase());
-//         },
-//         removeTag(id) {
-//             this.entry.tags.splice(this.entry.tags.indexOf(id.toLowerCase()), 1);
-//         },
-//         goto(id) {
-//             if (id) {
-//                 // console.log(id);
-//                 // $(window).scrollTop($('#toc-' + id).offset().top);
-//                 // $('#result-scroller').scrollTop();
-//                 document.getElementById('toc-' + id).scrollIntoView()
-//             }
-//             else {
-//                 window.scrollTo(0, 0);
-//                 document.getElementById('result-scroller').scrollTo(0, 0);
-//                 // $(window).scrollTop(0);
-//                 // $('#result-scroller').scrollTop(0);
-//             }
-//         },
-//         html(str) {
-//             if (!str)
-//                 return '';
-// 
-//             let self = this;
-//             let size = ['tiny', 'small', 'medium', 'large', 'huge', 'gargantuan'];
-//             let alignment = ['lg', 'ng', 'cg', 'ln', 'n', 'cn', 'le', 'ne', 'ce'];
-//             let type = ['city', 'village', 'metropolis', 'town'];
-// 
-//             let traitEdge = '<div class="pf-trait pf-trait-edge">&nbsp;</div>';
-// 
-//             let contentStart = '<div class="content" data-markdown="1">';
-//             let contentEnd = '</div>'
-// 
-//             let columnStart = '<div class="flex-even column" data-markdown="1">';
-//             let columnEnd = '</div>';
-// 
-//             let pageStart = `<div class="bg-paper page d-flex flex-wrap ${this.options.a4 ? ' a4' : ''}" data-markdown="1"><div class="page-overlay"></div>` + columnStart + contentStart;
-//             let pageEnd = contentEnd + columnEnd;
-// 
-//             if (this.watermark)
-//                 pageEnd += `<div class="watermark">${this.watermark}</div>`
-//             if (this.title)
-//                 pageEnd += `<div class="title"><h1>${this.title}</h1></div>`
-// 
-//             let stickies = [];
-//             let stickymatch = [...str.matchAll(/^sticky *\( *(\d+) +(\d+) *\n([\s\S]+?)\n\)/gmi)];
-//             for (let i of stickymatch) {
-//                 stickies.push({
-//                     x: i[1],
-//                     y: i[2],
-//                     content: i[3]
-//                 });
-//             }
-//             str = str.replace(/^sticky *\([\s\S]+?\n\)/gmi, '');
-// 
-//             for (let i of stickies) {
-//                 pageEnd += `<div style="position:absolute;top:${i.y}mm;left:${i.x}mm" class="sticky">${DOMPurify.sanitize(showdown.makeHtml(i.content))}</div>`
-//             }
-// 
-//             pageEnd += '</div>';
-// 
-//             let data = str
-//                 .replace(/^( +)/gm, (m, p1) => {
-//                     let r = '';
-//                     for (let i of p1) {
-//                         r += '&nbsp;';
-//                     }
-//                     return r;
-//                 })
-//                 .replace(/^-+$/gmi, '<hr>\n')
-//                 .replace(/^(\w+) *\(([\s\S]+?)\n\)/gmi, (m, p1, p2) => {
-//                     p2 = p2.replace(/^(\||col(umn)?)$/gmi, columnEnd + columnStart);
-//                     p1 = p1.toLowerCase();
-//                     let suffix = '';
-//                     if (p1 == 'head') {
-//                         suffix = '\n/\n';
-//                     }
-//                     return `${contentEnd}<div class="${p1} d-flex flex-wrap" data-markdown="1">${columnStart}${p2}${columnEnd}</div>${contentStart}${suffix}`;
-//                 })
-//                 .replace(/^; *(.*)$/gmi, (m, p1) => {
-//                     let result = '<div class="traits">' + traitEdge + '!--';
-//                     for (let trait of self.splitTraits(p1)) {
-//                         let color = trait;
-//                         if (size.includes(trait)) {
-//                             color = 'size';
-//                         }
-//                         if (type.includes(trait)) {
-//                             color = 'type';
-//                         }
-//                         if (alignment.includes(trait)) {
-//                             color = 'align';
-//                         }
-//                         result += `--!<div class="pf-trait pf-trait-${color}">${trait}</div>!--`
-//                     }
-//                     return result + '--!' + traitEdge + '</div>';
-//                 })
-//                 .replace(/^\.\s*(.*)$/gmi, '<div class="tfoot">$1</div>')
-//                 .replace(/^(\||col(umn)?)$/gmi, contentEnd + columnEnd + columnStart + contentStart)
-//                 .replace(/^(\/|break)$/gmi, contentEnd + columnEnd + '<div class="content w-100"></div>' + columnStart + contentStart)
-// 
-//             data = `${pageStart}${data}${pageEnd}`;
-//             data = DOMPurify.sanitize(showdown.makeHtml(data))
-//                 .replace(/<p><\/p>/gmi, '')
-//                 .replace(/<p><strong>/gmi, '<p class="hang"><strong>')
-//                 .replace(/<div data-markdown="1" class="content"><\/div>/gmi, '')
-//                 .replace(/!--/gmi, '<!--')
-//                 .replace(/--!/gmi, '-->')
-//                 .replace(/<hr><br>/gmi, '<hr>')
-//                 .replace(/<h2.*?>(.*?) +(\d+[stndrh]{2})<\/h2>/gmi, '<div class="p d-flex"><h2>$1</h2><h2 class="mr-0 my-0 ml-auto">$2</h2></div>')
-//                 .replace(/:(aaa|aa|a|r|f):/gmi, (m, p1) => {
-//                     return `<img src=${images[p1.toLowerCase()]} class="text-img">`
-//                 })
-//                 .replace(/\[(aaa|aa|a|r|f)\]/gmi, (m, p1) => {
-//                     return `<img src=${images[p1.toLowerCase()]} class="text-img">`
-//                 })
-// 
-//             return data;
-//         },
-//         splitTraits(str) {
-//             let result = [];
-//             let special = ['unique', 'rare', 'uncommon', 'lg', 'ng', 'cg', 'ln', 'n', 'cn', 'le', 'ne', 'ce', 'tiny', 'small', 'medium', 'large', 'huge', 'gargantuan'];
-//             let arr = str.toLowerCase().split(/\s*,\s*/gmi);
-//             for (let t of special)
-//                 if (arr.find(i => i == t))
-//                     result.push(t);
-//             return [...result, ..._.difference(arr, special)];
-//         },
-//         getPrint(bwp = false) {
-//             this.bwp = bwp;
-//             this.route = 'print';
-//             setTimeout(() => {
-//                 window.print();
-//             }, 1500);
-//         },
-//         getPdf() {
-//             let bgcolor = this.localsettings.exportbg;
-//             if (bgcolor) bgcolor = '#' + bgcolor;
-//             else bgcolor = null;
-// 
-//             let el = document.getElementById('result');
-//             el.classList.add("pdf");
-//             html2pdf(document.getElementById('result'), {
-//                 margin: 0,
-//                 filename: (this.entry.name || 'untitled').replace(/[^a-z0-9]/gi, '_').toLowerCase() + '-' + (Math.floor(new Date().getTime() / 1000)) + '.pdf',
-//                 html2canvas: { scale: 1.5, useCORS: true, allowTaint: true },
-//                 pagebreak: { mode: 'avoid-all', before: '.page+.page' },
-//                 image: { type: 'jpeg', quality: 0.9 }
-//             });
-//             requestAnimationFrame(() => {
-//                 requestAnimationFrame(() => {
-//                     el.classList.remove("pdf");
-//                 })
-//             })
-//         },
-//         getHtml() {
-//             let bgcolor = this.localsettings.exportbg;
-//             if (bgcolor) bgcolor = '#' + bgcolor;
-//             else bgcolor = null;
-// 
-//             let result = '<html style="background: ' + bgcolor + '"><head><style>' + this.cssdata + this.stylesheet + '</style><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, minimum-scale=1, shrink-to-fit=no"></head><body style="background: #000"><div style="max-width: 800px; margin: 1rem auto" id="result">';
-//             result += DOMPurify.sanitize(document.getElementById('result').innerHTML).replace(/\s+/g, ' ').replace(/\n/g, '');
-//             result += '</div></body></html>'
-// 
-//             let element = document.createElement('a');
-//             element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(result));
-//             element.setAttribute('download', (this.entry.name || 'untitled').replace(/[^a-z0-9]/gi, '_').toLowerCase() + '-' + (Math.floor(new Date().getTime() / 1000)) + '.htm');
-// 
-//             element.style.display = 'none';
-//             document.body.appendChild(element);
-// 
-//             element.click();
-// 
-//             document.body.removeChild(element);
-//         },
-//         parseMd(data) {
-//             return DOMPurify.sanitize(showdown.makeHtml(data))
-//         },
-//         snippet(id) {
-//             this.editor.insert(snippets[id]);
-//         },
-//         newFile() {
-//             let self = this;
-//             if (this.isGuest) {
-//                 let e = new Entry();
-//                 e.id = Util.id();
-//                 this.entries.push(e);
-//                 this.targetId = e.id;
-//                 self.route = 'edit';
-//             }
-//             else {
-//                 $.post('/r/', {
-//                     t: _token,
-//                     r: 'new'
-//                 }, function (data) {
-//                     if (data.success) {
-//                         let entry = new Entry();
-//                         let v = data;
-//                         entry.id = v.data.id;
-//                         entry.meta.public = v.meta.public;
-//                         entry.meta.url = v.meta.url;
-//                         self.entries.push(entry);
-//                         self.targetId = entry.id;
-//                     }
-// 
-//                     if (self.entries.length) {
-//                         self.route = 'edit';
-//                     }
-//                 })
-//             }
-//         },
-//         duplicateFile() {
-//             let self = this;
-//             let data = JSON.stringify(this.entry);
-// 
-//             if (this.isGuest) {
-//                 let e = new Entry();
-//                 e.id = Util.id();
-//                 e.body = this.entry.body;
-//                 this.entries.push(e);
-//                 this.targetId = e.id;
-//                 self.route = 'edit';
-//             }
-//             else {
-//                 $.post('/r/', {
-//                     t: _token,
-//                     r: 'new',
-//                     data: data
-//                 }, function (data) {
-//                     if (data.success) {
-//                         this.isLoaded = false;
-//                         let entry = new Entry();
-//                         let v = data;
-//                         entry.id = v.data.id;
-//                         entry.body = v.data.body;
-//                         entry.meta.public = v.meta.public;
-//                         entry.meta.url = v.meta.url;
-//                         self.entries.push(entry);
-//                         self.targetId = entry.id;
-//                     }
-// 
-//                     if (self.entries.length) {
-//                         self.route = 'edit';
-//                     }
-//                 })
-//             }
-//         },
-//         terminateData() {
-//             let self = this;
-//             $.post('/r/', {
-//                 t: _token,
-//                 r: 'terminate',
-//             }, function (data) {
-//                 window.location.href = window.location.origin + '/logout.php';
-//             });
-//         },
-//         saveData: _.debounce(function () {
-//             if (!this.isLoaded) {
-//                 this.isLoaded = true;
-//                 return;
-//             }
-//             if (this.entry.id == 'ex')
-//                 return;
-// 
-//             if (this.route != 'edit')
-//                 return;
-// 
-//             localStorage.setItem('backup', JSON.stringify(this.entries));
-// 
-//             if (this.isGuest) {
-//                 localStorage.setItem('data', JSON.stringify(this.entries));
-//             }
-//             else {
-//                 let e = JSON.stringify(this.entry);
-//                 $.post('/r/', {
-//                     t: _token,
-//                     r: 'save',
-//                     data: e
-//                 }, function (data) {
-//                     console.log('-- Entry saved remotely');
-//                 })
-//             }
-//         }, 100),
-//         viewData() {
-//             let self = this;
-//             $.post('/r/', {
-//                 t: _token,
-//                 r: 'view',
-//                 v: _v
-//             }, function (data) {
-//                 if (data.success) {
-//                     let entries = [];
-//                     let v = data;
-//                     let entry = new Entry();
-//                     entry.id = v.data.id;
-//                     entry.body = v.data.body || '';
-//                     entry.name = v.data.name || '';
-//                     entry.tags = [];
-//                     entries.push(entry);
-//                     self.entries = entries;
-//                     self.route = 'view';
-//                     self.home = 'view';
-//                     self.targetId = entry.id;
-// 
-//                     if (entry.body) {
-//                         document.querySelector('meta[name="description"]').setAttribute("content", self.metadescription);
-//                     }
-//                     if (entry.name && entry.name.trim()) {
-//                         window.history.replaceState(null, '', '/v/' + _v + '-' + entry.name.trim().replace(/[^a-z0-9]+/gi, '-').toLowerCase().replace(/-+$/i, ''));
-//                     }
-//                 }
-//             })
-//         },
-//         deleteData() {
-//             let self = this;
-// 
-//             if (this.isGuest) {
-//                 let id = self.entry.id;
-//                 self.entries = self.entries.filter(e => e.id != id);
-//                 self.modal('');
-//                 if (!self.entries.length) {
-//                     self.route = '';
-//                     self.newFile();
-//                 }
-//                 else {
-//                     self.targetId = '';
-//                 }
-//             }
-//             else {
-//                 $.post('/r/', {
-//                     t: _token,
-//                     r: 'delete',
-//                     file: self.entry.id
-//                 }, function (data) {
-//                     if (data.success) {
-//                         let id = self.entry.id;
-//                         self.entries = self.entries.filter(e => e.id != id);
-//                         self.modal('');
-//                         if (!self.entries.length) {
-//                             self.route = '';
-//                             self.newFile();
-//                         }
-//                         else {
-//                             self.targetId = '';
-//                         }
-//                     }
-//                 });
-//             }
-//         },
-//         toTitleCase(str) {
-//             if (!str)
-//                 return '';
-//             str = str.toLowerCase();
-//             str = str.split(' ');
-//             for (let i = 0; i < str.length; i++) {
-//                 str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1);
-//             }
-//             return str.join(' ');
-//         },
-//         ensureSign(obj) {
-//             let str = obj + '';
-//             if (str.includes('-') || str.includes('+'))
-//                 return str;
-//             return '+' + str;
-//         },
-//         fetchItem(url) {
-//             let self = this;
-// 
-//             const _convertaction = function (a) {
-//                 if (a == 'one') return ':a:';
-//                 if (a == 'two') return ':aa:';
-//                 if (a == 'three') return ':aaa:';
-//                 if (a == 'reaction') return ':r:';
-//                 if (a == 'free') return ':f:';
-//                 return a;
-//             }
-// 
-//             // self.remotedata[url] = '';
-// 
-//             setTimeout(() => {
-//                 console.log('-- Fetching data', url);
-//                 self.pendingfetches += 1;
-//                 $.post('/r/', {
-//                     t: _token,
-//                     r: 'fetchdata',
-//                     url: url
-//                 }, function (data) {
-//                     // turn the data into markdwon here
-//                     self.completedfetches += 1;
-//                     if (!data.data) {
-//                         console.log('-- Fetch failed!', url);
-// 
-//                         if (self.completedfetches >= self.pendingfetches) {
-//                             self.pendingfetches = 0;
-//                             self.completedfetches = 0;
-//                             self.increaseLoadcount();
-//                         }
-// 
-//                         return;
-//                     }
-//                     let str = '';
-//                     let t = '';
-//                     let tokens = [];
-//                     let i = data.data;
-//                     if (url.includes('monster.pf2.tools')) {
-//                         str += `# ${i.name}\n## ${i.creature || 'Creature'} ${i.showlevel || i.level}\n-\n`;
-//                         str += `;${[i.alignment, i.size, i.type, i.traits].filter(x => x).join(',')}\n`;
-//                         if (i.perception.value)
-//                             str += `**Perception** ${self.ensureSign(i.perception.value)}\n\n`;
-//                         if (i.languages)
-//                             str += `**Languages** ${i.languages}\n\n`;
-//                         str += `**Skills** `;
-// 
-// 
-//                         tokens = [];
-// 
-//                         for (let s of ['acrobatics', 'athletics', 'arcana', 'crafting', 'deception', 'diplomacy', 'intimidation', 'medicine', 'nature', 'occultism', 'performance', 'religion', 'society', 'stealth', 'survival', 'thievery']) {
-//                             if (i[s].value) {
-//                                 t = `${self.toTitleCase(s)}&nbsp;${self.ensureSign(i[s].value)}`;
-//                                 if (i[s].note) {
-//                                     t += ` (${i[s].note})`
-//                                 }
-//                                 tokens.push(t)
-//                             }
-//                         }
-// 
-//                         for (let s of ['lore', 'lorealt']) {
-//                             if (i[s].value) {
-//                                 t = `${self.toTitleCase(i[s].name)}&nbsp;${self.ensureSign(i[s].value)}`;
-//                                 if (i[s].note) {
-//                                     t += ` (${i[s].note})`
-//                                 }
-//                                 tokens.push(t)
-//                             }
-//                         }
-//                         str += tokens.join(', ');
-//                         str += `\n\n`
-// 
-//                         tokens = [];
-// 
-//                         for (let s of ['strength', 'dexterity', 'constitution', 'intelligence', 'wisdom', 'charisma']) {
-//                             t = `**${self.toTitleCase(s).slice(0, 3)}**&nbsp;${self.ensureSign(i[s].value)}`;
-//                             if (i[s].note) {
-//                                 t += ` (${i[s].note})`;
-//                             }
-//                             tokens.push(t);
-//                         }
-//                         str += tokens.join(', ');
-//                         str += `\n\n`
-// 
-//                         for (let s of i.specials.filter(o => o.type == 'general')) {
-//                             str += `**${s.name}**`
-//                             if (s.traits)
-//                                 str += ` (${s.traits})`;
-//                             str += ` ${self.autoFormat(s.description)}\n\n`
-//                         }
-// 
-//                         if (i.items)
-//                             str += `**Items** ${i.items}\n\n`;
-// 
-// 
-// 
-//                         str += `\n-\n`;
-//                         str += `**AC** ${i.ac.value}`;
-//                         if (i.ac.note)
-//                             str += ` (${i.ac.note})`;
-//                         str += `; `
-// 
-//                         tokens = [];
-// 
-//                         for (let s of ['fortitude', 'reflex', 'will']) {
-//                             let n = 'Will';
-//                             if (s == 'fortitude')
-//                                 n = 'Fort';
-//                             if (s == 'reflex')
-//                                 n = 'Ref';
-//                             tokens.push(`**${n}**&nbsp;${self.ensureSign(i[s].value)}`)
-//                         }
-// 
-//                         str += tokens.join(', ');
-// 
-//                         str += `\n\n**HP** ${i.hp.value}`;
-//                         if (i.hp.note)
-//                             str += ` (${i.hp.note})`
-//                         str += `; `;
-// 
-//                         tokens = [];
-//                         for (let s of ['resistance', 'weakness', 'immunity']) {
-//                             if (i[s].value) {
-//                                 t = `**${self.toTitleCase(s)}**&nbsp;${i[s].value}`;
-//                                 tokens.push(t)
-//                             }
-//                         }
-//                         str += tokens.join('; ');
-// 
-//                         str += `\n\n`;
-// 
-//                         for (let s of i.specials.filter(o => o.type == 'defense')) {
-//                             str += `**${s.name}** ${_convertaction(s.actions)}`
-//                             if (s.traits)
-//                                 str += ` (${s.traits})`;
-//                             str += ` ${self.autoFormat(s.description)}\n\n`
-//                         }
-// 
-//                         str += `\n-\n`;
-// 
-//                         str += `**Speed** ${i.speed}\n\n`;
-// 
-//                         for (let s of i.strikes) {
-//                             str += `**${s.type}** :a: ${s.name.toLowerCase()} ${self.ensureSign(s.attack)}`
-//                             if (s.traits)
-//                                 str += ` (${s.traits})`;
-//                             str += `, **Damage** ${s.damage}\n\n`
-//                         }
-// 
-// 
-// 
-//                         if (i.spelltype) {
-//                             str += `**${self.toTitleCase(i.spelltype)} Spells** DC ${i.spelldc.value}`
-//                             if (i.spelldc.note)
-//                                 str += ` (${i.spelldc.note})`;
-//                             str += `, attack ${self.ensureSign(i.spellattack.value)}`;
-//                             if (i.spellattack.note)
-//                                 str += ` (${i.spellattack.note})`;
-//                             str += `;`;
-// 
-//                             for (let l = 0; l <= 10; l++) {
-//                                 if (i.spells[l]) {
-//                                     if (l == 10) {
-//                                         str += ` **Cantrips (${self.numberSuffix(i.cantriplevel)})** ${self.formatSpells(i.spells[l])}`;
-//                                     }
-//                                     else {
-//                                         str += ` **${self.numberSuffix(10 - l)}** ${self.formatSpells(i.spells[l])}`;
-//                                     }
-//                                 }
-//                             }
-// 
-//                             if (i.constant)
-//                                 str += ` **Constant** ${i.constant}`;
-// 
-//                             str += `\n\n`
-//                         }
-// 
-//                         for (let s of i.morespells) {
-//                             str += `**${self.toTitleCase(s.name)} Spells** DC ${s.spelldc.value}`
-//                             if (s.spelldc.note)
-//                                 str += ` (${s.spelldc.note})`;
-//                             str += `, attack ${self.ensureSign(s.spellattack.value)}`;
-//                             if (s.spellattack.note)
-//                                 str += ` (${s.spellattack.note})`;
-//                             str += `;`;
-// 
-//                             for (let l = 0; l <= 10; l++) {
-//                                 if (s.spells[l]) {
-//                                     if (l == 10) {
-//                                         str += ` **Cantrips (${self.numberSuffix(s.cantriplevel)})** ${self.formatSpells(s.spells[l])}`;
-//                                     }
-//                                     else {
-//                                         str += ` **${self.numberSuffix(10 - l)}** ${self.formatSpells(s.spells[l])}`;
-//                                     }
-//                                 }
-//                             }
-// 
-//                             if (s.constant)
-//                                 str += ` **Constant** ${s.constant}`;
-// 
-//                             str += `\n\n`
-//                         }
-// 
-//                         if (i.ritualtype) {
-//                             str += `**${self.toTitleCase(i.ritualtype)} Rituals** DC ${i.spelldc.value}; ${i.rituals}\n\n`
-//                         }
-// 
-//                         for (let s of i.specials.filter(o => o.type == 'offense')) {
-//                             str += `**${s.name}** ${_convertaction(s.actions)}`
-//                             if (s.traits)
-//                                 str += ` (${s.traits})`;
-//                             str += ` ${self.autoFormat(s.description)}\n\n`
-//                         }
-// 
-//                         str = `item(\n${str}\n)\n${i.description}`
-//                     }
-//                     else if (url.includes('scribe.pf2.tools')) {
-//                         if (i.data)
-//                             str += i.data;
-//                     }
-//                     else {
-//                         str += `# ${i.name} ${_convertaction(i.actions)}\n## ${i.type} ${i.level}\n-\n`;
-//                         str += `;${i.traits}\n`;
-//                         str += `${self.autoFormat(i.body.replace(/\n/g, '\n\n'))}`;
-// 
-//                         str = `item(\n${str}\n)`
-// 
-//                     }
-// 
-//                     if (self.remotedata[url] != str) {
-//                         console.log('-- Retrieved', url);
-//                         self.remotedata[url] = str;
-//                         if (self.completedfetches >= self.pendingfetches) {
-//                             self.pendingfetches = 0;
-//                             self.completedfetches = 0;
-//                             self.increaseLoadcount();
-//                         }
-//                     }
-//                     else {
-//                         console.log('-- Unchanged', url);
-//                     }
-// 
-//                 });
-//             }, 500);
-//         },
-//         increaseLoadcount: _.debounce(function () {
-//             this.loadcount++;
-//         }, 2000),
-//         refetch() {
-//             this.pendingfetches = 0;
-//             this.completedfetches = 0;
-//             this.remotedata = {};
-//             this.loadcount++;
-//         },
-//         formatSpells(str) {
-//             return '*' + str
-//                 .replace(/\(x(\d)\)/g, '(&times;$1)')
-//                 .replace(/ *\((.+?)\) */gmi, "* ($1) *")
-//                 .replace(/\*\*$/, '') + '*';
-//         },
-//         autoFormat(str) {
-//             str = str
-//                 .replace(/Dex Cap/g, 'Dex&nbsp;Cap')
-//                 .replace(/^  (\w)/gmi, '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$1')
-//                 .replace(/\(x(\d)\)/g, '(&times;$1)')
-//                 .replace(/(^|\n)(Craft Requirements|Ammunition|Duration|Heightened \(.+?\)|Traditions|Cast|Range|Type|Scope and Influence|Goals|Headquarters|Key Members|Allies|Assets|Membership Requirements|Accepted Alignments|Values|Anathema|Access|Special|Routine|Reset|Communication|Destruction|Aspect|Perception|Description|Languages|Skills|Items|Speed|Melee|Ranged|Saving Throw|AC|HP|Speed|Government|Capital|Population|Religions|Irreligious|Primary Exports|Enemies|Factions|Threats|Native Inhabitants|Divinities|Category|Discovery|Influence \d+:|Influence Skills|Background|Appearance|Personality|Penalty|Research Checks|Chase Points|Infiltration Points|Cost|Terrain|Resources|Secrets|Space|Crew|Piloting Check|Hardness|Collision|Special Abilities)/gm, `$1**$2**`)
-//                 // .replace(/Bulk/, '**Bulk**')
-//                 // .replace(/Area/, '**Area**')
-//                 // .replace(/Usage/, '**Usage**')
-//                 // .replace(/Targets/, '**Targets**')
-//                 // .replace(/\**(Hands|Bulk|Area|Usage|Targets)\**/g, '**$1**')
-//                 .replace(/\b\**(Traits|Dex&nbsp;Cap|Strength|Group|Check Penalty|Category|Damage|Source|Price|AC Bonus|Speed Penalty|Hardness|HP \(BT\)|Level|Prerequisites|Frequency|Passengers|Saving Throws|Trigger|Requirements|Effect|Overcome|Maximum RP|Research Points|Will|Fort|Ref|Fortitude|Reflex|Critical Success|Critical Failure|Success|Failure|Maximum Duration|Str|Dex|Con|Int|Wis|Cha|Cantrip|Immunities|Resistances|Weaknesses|Stage \d|\(\d+\D\D\))\**\b/gm, `**$1**`)
-//                 .replace(/\((aaa|aa|a|r|f)\)/gmi, `:$1:`)
-//                 .replace(/^(.+?) *:(aaa|aa|a|r|f):/gmi, `\n**$1** :$2:`)
-//                 .replace(/^(Stealth|Perception|Disable) *(DC.+)/gm, `**$1** $2`)
-//                 .replace(/\*+(Fortitude|Reflex|Will)\*+ save/g, '$1 save')
-//                 .replace(/\*+(Fortitude|Reflex|Will)\*+;/g, '$1;')
-//             // .replace(/\*{3,}/gmi, '**')
-//             return str;
-//         },
-//         loadData() {
-//             let self = this;
-// 
-//             this.options = JSON.parse(localStorage.getItem('options')) || this.options;
-// 
-//             if (this.isGuest) {
-//                 let data = localStorage.getItem('data');
-//                 if (data) {
-//                     this.entries = JSON.parse(data);
-//                 }
-//                 else {
-//                     // self.newFile();
-//                 }
-// 
-//                 for (let entry of this.entries)
-//                     entry.tags = entry.tags || [];
-// 
-//                 self.route = 'edit';
-// 
-//             }
-//             else {
-//                 $.post('/r/', {
-//                     t: _token,
-//                     r: 'load'
-//                 }, function (data) {
-//                     if (data.success) {
-//                         let entries = [];
-//                         for (let e in data.data) {
-//                             let v = data.data[e];
-//                             let entry = new Entry();
-//                             entry.id = e;
-//                             entry.body = v.data.body || '';
-//                             entry.name = v.data.name || '';
-//                             entry.tags = v.data.tags || [];
-//                             entry.meta.public = v.meta.public || 0;
-//                             entry.meta.url = v.url;
-//                             entries.push(entry);
-//                         }
-//                         self.entries = entries;
-//                     }
-// 
-//                     if (self.entries.length) {
-//                         self.route = 'edit';
-//                     }
-//                     else {
-//                         self.newFile();
-//                     }
-//                 })
-//             }
-// 
-//         },
-//         numberSuffix(num) {
-//             if (!num) return '';
-//             if (num == '1') return num + 'st';
-//             if (num == '2') return num + 'nd';
-//             if (num == '3') return num + 'rd';
-//             return num + 'th'
-//         },
-//         mountAce() {
-//             if (this.editor)
-//                 return;
-// 
-//             let self = this;
-//             this.editor = ace.edit("editor");
-//             this.editor.setOptions({
-//                 fontSize: 12,
-//                 showFoldWidgets: false,
-//                 theme: "ace/theme/github",
-//                 showPrintMargin: false,
-//                 copyWithEmptySelection: true,
-//                 scrollPastEnd: 0.5,
-//                 showLineNumbers: false
-//             })
-//             this.editor.session.setMode("ace/mode/markdown");
-//             this.editor.session.setOptions({
-//                 wrap: true
-//             })
-// 
-//             // this.editor.session.on('change', (e) => {
-//             //     self.input = self.editor.getValue();
-//             // })
-// 
-//             const db = _.debounce(function (e) {
-//                 self.input = self.editor.getValue();
-//             }, 250)
-// 
-//             this.editor.session.on('change', (e) => {
-//                 db(e);
-//             })
-// 
-//             this.editor.setValue(this.input, 1);
-//             this.editor.session.getUndoManager().reset();
-//             this.editor.resize(true);
-// 
-//         },
-//         modal(id) {
-//             if (!id) {
-//                 $('#modal').modal('hide');
-// 
-//                 return;
-//             }
-//             this.modalId = id;
-//             $('#modal').modal();
-//         }
-//     },
-//     mounted() {
-// 
-//         let self = this;
-//         if (window.location.search.includes('code=')) {
-//             window.history.replaceState('', '', window.location.origin + window.location.pathname);
-//         }
-//         if (window.location.search.includes('fbclid=')) {
-//             window.history.replaceState('', '', window.location.origin + window.location.pathname);
-//         }
-// 
-//         let localsettings = false;
-//         try {
-//             localsettings = JSON.parse(localStorage.getItem('localsettings'));
-//         }
-//         catch (e) {
-//         }
-//         this.localsettings = localsettings || this.localsettings;
-// 
-//         if (_v) {
-//             this.viewData();
-//             setInterval(() => {
-//                 if (self.route == 'view')
-//                     this.viewData();
-//             }, 5000)
-//         }
-//         else {
-//             this.loadData();
-//         }
-// 
-//         fetch('/md/license.md')
-//             .then(r => r.text())
-//             .then(data => {
-//                 self.md['license'] = data
-//                 self.md = JSON.parse(JSON.stringify(self.md)); // Vue hack
-//             });
-// 
-//         fetch('/md/share.md')
-//             .then(r => r.text())
-//             .then(data => {
-//                 self.md['share'] = data
-//                 self.md = JSON.parse(JSON.stringify(self.md)); // Vue hack
-//             });
-// 
-//         fetch('/md/help.md')
-//             .then(r => r.text())
-//             .then(data => {
-//                 self.md['help'] = data
-//                 self.md = JSON.parse(JSON.stringify(self.md)); // Vue hack
-//             });
-// 
-//         let css = {
-//             '/vendor/font.css': '',
-//             '/vendor/bootstrap.min.css': '',
-//             '/app/app.css': ''
-//         };
-//         let count = 0;
-//         this.cssdata = '';
-//         for (let c in css) {
-//             $.get(c, function (data) {
-//                 css[c] = data.replace(/\n/g, '').replace(/\s+/g, ' ');
-//                 count++;
-//                 if (count == Object.keys(css).length) {
-//                     for (let key in css) {
-//                         self.cssdata += css[key];
-//                     }
-//                 }
-//             });
-//         }
-// 
-//         setInterval(function () {
-//             // console.log('-- Ping?')
-//             $.post('/r/', {
-//                 r: 'ping',
-//                 t: _token
-//             }, function (data) {
-//                 // console.log('-- Pong!');
-//                 if (data == '...') {
-//                     // Session ended early
-//                     self.bigError = "Session expired! Data isn't being saved! Log in again to continue."
-//                 }
-//             })
-//         }, 1000 * 10);
-// 
-//         $('body').on('click', '[data-label]', function () {
-//             let label = ($(this).attr('data-label'));
-//             vm.goto(label);
-//         })
-//     },
-//     template: /*html*/ `
-// <div style="min-height: 100vh;"> 
-// <div class="mx-auto pt-5 lds-roller" v-if="!route"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
-// 
-// <div v-if="bigError" class="text-center p-3 font-weight-bold text-uppercase" style="font-size: 200%;color:red;background-color:yellow">{{bigError}}</div>
-// 
-// <div style="min-height: 100vh; min-width: 900px" class="d-flex flex-column" v-if="route == 'edit'"  :style="bgstyle">
-//     <div class="d-flex h-100 flex-grow-1">
-//         <div class="flex-even shadow" v-if="route == 'edit'">
-//             <div class="d-flex flex-column h-100 " style="min-width: 320px">
-//                 <div class="bg-light p-1 d-flex align-items-center">
-//                     <div class="dropdown">
-//                     <button class="btn btn-light-h220" data-toggle="dropdown"><fa fw icon="bars"/></button>
-//                     <div class="dropdown-menu">
-//                         <button class="btn btn-light-h220 text-uppercase w-100" v-if="_user.sub" @click="modal('account')">{{_user.name || _user.nickname}}</button>
-//                         <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="newFile" ><fa fw icon="file-plus"/> new</button>
-//                         <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="duplicateFile"><fa fw icon="copy"/> Duplicate</button>
-//                         <button class="btn btn-light-h10 text-uppercase w-100 text-left font-weight-bold" @click="modal('delete')"><fa fw icon="trash"/> delete</button>
-//                         <hr class="op-25 my-1">
-//                         <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="modal('settings')"><fa fw icon="cog"/> settings</button>
-//                         <hr class="op-25 my-1">
-//                         <button v-if="!isGuest && targetId" class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="modal('share')"><fa fw icon="share-square"/> share</button>
-//                         <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="getHtml"><fa fw icon="code"/> html</button>
-//                         <!--<button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="getPdf"><fa fw icon="file-pdf"/> pdf</button>-->
-//                         <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="getPrint()"><fa fw icon="print"/> print</button>
-//                         <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="getPrint(true)"><fa fw icon="adjust"/> print</button>
-//                         <hr class="op-25 my-1">
-//                         <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="modal('help')"><fa fw icon="question"/> help</button>
-//                         <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="targetId = false"><fa fw icon="align-left"/> example</button>
-//                         <hr class="op-25 my-1">
-//                         <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold"  v-if="_user.sub" @click="modal('account')"><fa fw icon="user-circle"/> account</button>
-//                         <a class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" href="logout.php" v-if="_user.sub"><fa fw icon="sign-out-alt"/> logout</a>
-//                         <a class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" href="login.php" v-else><fa fw icon="sign-in-alt"/> login</a>
-//                     </div>
-//                     </div>
-// 
-//                     <div class="dropdown">
-//                     <button class="btn btn-light-h220" data-toggle="dropdown"><fa fw icon="pen"/></button>
-//                     <div class="dropdown-menu">
-//                         <button v-for="i,k in snippets" class="btn btn-light-h220 w-100 text-left text-uppercase font-weight-bold" @click="snippet(k)"><fa fw icon="plus-square"/> {{k}}</button>
-//                     </div>
-//                     </div>
-// 
-//                     <div class="dropdown">
-//                     <button class="btn btn-light-h220" data-toggle="dropdown"><fa fw icon="folder-open"/></button>
-//                     <div class="dropdown-menu">
-//                         <input class="form-control form-control-sm mb-1" placeholder="filter" v-model="filtername">
-//                         <div v-if="alltags.length" class="mb-1">
-//                         <button class="btn btn-light-h140 btn-sm text-uppercase small" :class="isFilter(tag) ? 'active' : ''" v-for="tag of alltags" @click.stop="toggleFilter(tag)">{{tag}}</button>
-//                         </div>
-// 
-//                         <button v-for="e of _.sortBy(filtered, i => i.name.toUpperCase())" class="btn btn-light-h220 w-100 text-left text-condensed font-weight-bold" @click="targetId = e.id"><fa fw icon="file"/>&nbsp;{{ e.name || 'Untitled' }}</button>
-//                     </div>
-//                     </div>
-// 
-//                   
-// 
-//                     <input v-model="entry.name" class="form-control text-condensed font-weight-bold" placeholder="Untitled" style="max-width:250px">
-// 
-//                       <div class="dropdown ml-1" v-for="t of entry.tags" :key="'tag'+t">
-//                     <button data-toggle="dropdown" class="btn btn-sm btn-light-h140 text-uppercase small">{{t}}</button>
-//                     <div class="dropdown-menu p-1" style="width: 50px">
-//                         <button class="btn btn-sm btn-light-h20 text-uppercase w-100" @click="removeTag(t)"><i class="fas fa-fw fa-trash"></i> delete tag</button>
-//                     </div>
-//                     </div>
-// 
-//                     <input v-model="tag" class="form-control form-control-sm text-condensed text-uppercase ml-1" placeholder="Add Tag" @blur="addTag(tag);tag=''" @keyup.enter="addTag(tag);tag=''" style="max-width:100px" v-if="$root.entry.id != 'ex'">
-// 
-//                     <div class="ml-auto"></div>
-// 
-//                     <a v-if="!isGuest && targetId && $root.entry.meta.public" class="small mx-1" :href="$root.location.origin + '/v/' + $root.entry.meta.url" target="_blank">{{window.location.origin}}/v/{{ $root.entry.meta.url }}</a>
-//                     <button class="btn btn-light-h220 text-condensed text-uppercase font-weight-bold" @click="modal('share')" v-if="!isGuest && targetId"><fa fw icon="share-square"/></button>
-//                     <button class="btn ml-1 btn-light-h220 text-condensed text-uppercase font-weight-bold" @click="refetch()"><fa fw icon="sync-alt"/></button>
-// 
-//                 </div>
-//                 <div id="editor" class="flex-fill bg-paper"></div>
-//             </div>
-//         </div>
-//         <div style="max-height: 100vh; width:200px;margin: 0.25rem;left: 0" class="overflow-scroll hide-mobile" v-if="toc.length">
-//             <toc/>
-//         </div>
-//         <div style="max-height: 100vh" class="mx-auto overflow-scroll flex-even position-relative" id="result-scroller" >
-//             <div id="result">
-//             <component is="style">{{stylesheet}}</component>
-//                 <scribe-page v-for="i,n of pages" :key="'page' + n" :i="i"/>
-//             </div>
-//             <div class="m-4 small op-50" v-html="parseMd(md['license'])"></div>
-//             <div style="height: 100px"></div>
-//         </div>
-//     </div>
-// 
-//     <modal id="modal" :title="modalId" mw="640" >
-//         <component v-if="modalId" :is="modalId"/>
-//     </modal>
-// </div>
-// <div v-if="route == 'view'" class="position-absolute">
-// <button class="btn btn-h220 text-uppercase text-left font-weight-bold m-1 position-fixed print-hide hide-mobile" @click="options.a4 = !options.a4" style="right: 0;top:30px"><span  :class="{'op-25':!options.a4}" >a4</span></button>
-//     <button class="position-fixed print-hide btn btn-h220 m-1" style="right: 0" @click="getPrint()"><fa fw icon="print"/></button>
-// 
-// </div>
-// <div v-if="route == 'view'" :style="bgstyle">
-//    
-//     <div style="max-height: 100vh; width:200px;margin: 0.25rem;left: calc(50% - 608px)" class="overflow-scroll hide-mobile position-fixed" v-if="toc.length">
-//         <toc/>
-//     </div>
-//     <div style="max-height: 100vh; width:150px;margin: 0.25rem;left: 0" class="overflow-scroll hide-desktop position-fixed" v-if="toc.length">
-//         <toc/>
-//     </div>
-//     <div >
-//      <div style="font-size:11px" class="mx-auto page-width text-center text-condensed font-weight-bold op-50 print-hide lh-150">
-//     This content is not published, endorsed, or approved by Paizo Inc. This content is for personal use only, and may not be used for any infringing, unlawful, or commercial purposes.
-//     </div>
-//     <div id="result">
-//             <component is="style">{{stylesheet}}</component>
-//     <scribe-page v-for="i,n of pages" :key="'page' + n" :i="i"/>
-//             </div>
-//     <div class="mt-4 mx-auto small op-50 print-hide" style="max-width: 800px" v-html="parseMd(md['license'])"></div>
-//     </div>
-// </div>
-// <div v-if="route == 'print'" class="printing" :class="{bwp:bwp}">
-//     <button class="position-fixed print-hide btn btn-h220 m-1" style="right: 0" @click="route = home"><fa fw icon="arrow-left"/></button>
-//     <button class="position-fixed print-hide btn btn-h220 m-1" style="right: 0;top:30px" @click="window.print()"><fa fw icon="print"/></button>
-//     <button class="position-fixed print-hide btn btn-h220 m-1" style="right: 0;top:60px" @click="bwp = !bwp"><fa fw icon="adjust"/></button>
-//     <div id="result" >
-//             <component is="style">{{stylesheet}}</component>
-//     <scribe-page v-for="i,n of pages" :key="'page' + n" :i="i"/>
-//             </div>
-// </div>
-// </div>
-//     `
-// })
+            this.$root.toc = toc;
+
+            str = str.replace(/\[(.+?)\]\(\#(.+?)\)/gmi, '<a class="pointer" href="#" data-label="$2">$1</a>');
+
+
+
+            return str.split(/^(?:\=|page)\s*$/mi).map(o => o.trim());
+        },
+
+    },
+    watch: {
+        localsettings: {
+            handler(v) {
+                localStorage.setItem('localsettings', JSON.stringify(this.localsettings));
+            },
+            deep: true
+        },
+        options: {
+            deep: true,
+            handler(v) {
+                localStorage.setItem('options', JSON.stringify(this.options));
+            }
+        },
+        input(v) {
+            document.title = this.entry.name || 'PF2e Scribe Tool'
+            if (this.editor) {
+                if (this.editor.getValue() !== v) {
+                    this.editor.setValue(v, 1);
+                    this.editor.session.getUndoManager().reset();
+                }
+                else {
+                    this.entry.body = v;
+                }
+
+                requestAnimationFrame(() => {
+                    requestAnimationFrame(() => {
+                        this.editor.resize(true);
+                    })
+                })
+            }
+        },
+        targetId(v) {
+            document.title = this.entry.name || 'PF2e Scribe Tool'
+            this.pendingfetches = 0;
+            this.completedfetches = 0;
+            this.input = this.entry.body;
+            this.loadedtext = this.entry.body;
+            if (this.editor) {
+                this.editor.session.getUndoManager().reset();
+            }
+        },
+        entries: {
+            handler(v) {
+                this.saveData();
+            },
+            deep: true
+        },
+        route(v) {
+            if (!v) {
+                this.isLoaded = false;
+                this.editor = null;
+                return;
+            }
+
+            if (v != 'edit') {
+                this.editor = null;
+            }
+
+            requestAnimationFrame(() => {
+                requestAnimationFrame(() => {
+                    if (v == 'edit')
+                        this.mountAce();
+                })
+            })
+        }
+    },
+    methods: {
+        toggleFilter(id) {
+            if (this.isFilter(id)) {
+                this.removeFilter(id);
+            }
+            else {
+                this.addFilter(id);
+            }
+        },
+        addFilter(id) {
+            if (!this.isFilter(id)) {
+                this.tagfilter.push(id.toLowerCase());
+            }
+        },
+        removeFilter(id) {
+            if (this.isFilter(id)) {
+                this.tagfilter.splice(this.tagfilter.indexOf(id.toLowerCase()), 1);
+            }
+        },
+        isFilter(id) {
+            return this.tagfilter.includes(id.toLowerCase());
+        },
+        addTag(id) {
+            id = id.trim();
+            if (!id)
+                return;
+            if (!this.entry.tags)
+                this.entry.tags = [];
+            if (this.entry.tags.includes(id.toLowerCase()))
+                return;
+            this.entry.tags.push(id.toLowerCase());
+        },
+        removeTag(id) {
+            this.entry.tags.splice(this.entry.tags.indexOf(id.toLowerCase()), 1);
+        },
+        goto(id) {
+            if (id) {
+                // console.log(id);
+                // $(window).scrollTop($('#toc-' + id).offset().top);
+                // $('#result-scroller').scrollTop();
+                document.getElementById('toc-' + id).scrollIntoView()
+            }
+            else {
+                window.scrollTo(0, 0);
+                document.getElementById('result-scroller').scrollTo(0, 0);
+                // $(window).scrollTop(0);
+                // $('#result-scroller').scrollTop(0);
+            }
+        },
+        html(str) {
+            if (!str)
+                return '';
+
+            let self = this;
+            let size = ['tiny', 'small', 'medium', 'large', 'huge', 'gargantuan'];
+            let alignment = ['lg', 'ng', 'cg', 'ln', 'n', 'cn', 'le', 'ne', 'ce'];
+            let type = ['city', 'village', 'metropolis', 'town'];
+
+            let traitEdge = '<div class="pf-trait pf-trait-edge">&nbsp;</div>';
+
+            let contentStart = '<div class="content" data-markdown="1">';
+            let contentEnd = '</div>'
+
+            let columnStart = '<div class="flex-even column" data-markdown="1">';
+            let columnEnd = '</div>';
+
+            let pageStart = `<div class="bg-paper page d-flex flex-wrap ${this.options.a4 ? ' a4' : ''}" data-markdown="1"><div class="page-overlay"></div>` + columnStart + contentStart;
+            let pageEnd = contentEnd + columnEnd;
+
+            if (this.watermark)
+                pageEnd += `<div class="watermark">${this.watermark}</div>`
+            if (this.title)
+                pageEnd += `<div class="title"><h1>${this.title}</h1></div>`
+
+            let stickies = [];
+            let stickymatch = [...str.matchAll(/^sticky *\( *(\d+) +(\d+) *\n([\s\S]+?)\n\)/gmi)];
+            for (let i of stickymatch) {
+                stickies.push({
+                    x: i[1],
+                    y: i[2],
+                    content: i[3]
+                });
+            }
+            str = str.replace(/^sticky *\([\s\S]+?\n\)/gmi, '');
+
+            for (let i of stickies) {
+                pageEnd += `<div style="position:absolute;top:${i.y}mm;left:${i.x}mm" class="sticky">${DOMPurify.sanitize(showdown.makeHtml(i.content))}</div>`
+            }
+
+            pageEnd += '</div>';
+
+            let data = str
+                .replace(/^( +)/gm, (m, p1) => {
+                    let r = '';
+                    for (let i of p1) {
+                        r += '&nbsp;';
+                    }
+                    return r;
+                })
+                .replace(/^-+$/gmi, '<hr>\n')
+                .replace(/^(\w+) *\(([\s\S]+?)\n\)/gmi, (m, p1, p2) => {
+                    p2 = p2.replace(/^(\||col(umn)?)$/gmi, columnEnd + columnStart);
+                    p1 = p1.toLowerCase();
+                    let suffix = '';
+                    if (p1 == 'head') {
+                        suffix = '\n/\n';
+                    }
+                    return `${contentEnd}<div class="${p1} d-flex flex-wrap" data-markdown="1">${columnStart}${p2}${columnEnd}</div>${contentStart}${suffix}`;
+                })
+                .replace(/^; *(.*)$/gmi, (m, p1) => {
+                    let result = '<div class="traits">' + traitEdge + '!--';
+                    for (let trait of self.splitTraits(p1)) {
+                        let color = trait;
+                        if (size.includes(trait)) {
+                            color = 'size';
+                        }
+                        if (type.includes(trait)) {
+                            color = 'type';
+                        }
+                        if (alignment.includes(trait)) {
+                            color = 'align';
+                        }
+                        result += `--!<div class="pf-trait pf-trait-${color}">${trait}</div>!--`
+                    }
+                    return result + '--!' + traitEdge + '</div>';
+                })
+                .replace(/^\.\s*(.*)$/gmi, '<div class="tfoot">$1</div>')
+                .replace(/^(\||col(umn)?)$/gmi, contentEnd + columnEnd + columnStart + contentStart)
+                .replace(/^(\/|break)$/gmi, contentEnd + columnEnd + '<div class="content w-100"></div>' + columnStart + contentStart)
+
+            data = `${pageStart}${data}${pageEnd}`;
+            data = DOMPurify.sanitize(showdown.makeHtml(data))
+                .replace(/<p><\/p>/gmi, '')
+                .replace(/<p><strong>/gmi, '<p class="hang"><strong>')
+                .replace(/<div data-markdown="1" class="content"><\/div>/gmi, '')
+                .replace(/!--/gmi, '<!--')
+                .replace(/--!/gmi, '-->')
+                .replace(/<hr><br>/gmi, '<hr>')
+                .replace(/<h2.*?>(.*?) +(\d+[stndrh]{2})<\/h2>/gmi, '<div class="p d-flex"><h2>$1</h2><h2 class="mr-0 my-0 ml-auto">$2</h2></div>')
+                .replace(/:(aaa|aa|a|r|f):/gmi, (m, p1) => {
+                    return `<img src=${images[p1.toLowerCase()]} class="text-img">`
+                })
+                .replace(/\[(aaa|aa|a|r|f)\]/gmi, (m, p1) => {
+                    return `<img src=${images[p1.toLowerCase()]} class="text-img">`
+                })
+
+            return data;
+        },
+        splitTraits(str) {
+            let result = [];
+            let special = ['unique', 'rare', 'uncommon', 'lg', 'ng', 'cg', 'ln', 'n', 'cn', 'le', 'ne', 'ce', 'tiny', 'small', 'medium', 'large', 'huge', 'gargantuan'];
+            let arr = str.toLowerCase().split(/\s*,\s*/gmi);
+            for (let t of special)
+                if (arr.find(i => i == t))
+                    result.push(t);
+            return [...result, ..._.difference(arr, special)];
+        },
+        getPrint(bwp = false) {
+            this.bwp = bwp;
+            this.route = 'print';
+            setTimeout(() => {
+                window.print();
+            }, 1500);
+        },
+        getPdf() {
+            let bgcolor = this.localsettings.exportbg;
+            if (bgcolor) bgcolor = '#' + bgcolor;
+            else bgcolor = null;
+
+            let el = document.getElementById('result');
+            el.classList.add("pdf");
+            html2pdf(document.getElementById('result'), {
+                margin: 0,
+                filename: (this.entry.name || 'untitled').replace(/[^a-z0-9]/gi, '_').toLowerCase() + '-' + (Math.floor(new Date().getTime() / 1000)) + '.pdf',
+                html2canvas: { scale: 1.5, useCORS: true, allowTaint: true },
+                pagebreak: { mode: 'avoid-all', before: '.page+.page' },
+                image: { type: 'jpeg', quality: 0.9 }
+            });
+            requestAnimationFrame(() => {
+                requestAnimationFrame(() => {
+                    el.classList.remove("pdf");
+                })
+            })
+        },
+        getHtml() {
+            let bgcolor = this.localsettings.exportbg;
+            if (bgcolor) bgcolor = '#' + bgcolor;
+            else bgcolor = null;
+
+            let result = '<html style="background: ' + bgcolor + '"><head><style>' + this.cssdata + this.stylesheet + '</style><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, minimum-scale=1, shrink-to-fit=no"></head><body style="background: #000"><div style="max-width: 800px; margin: 1rem auto" id="result">';
+            result += DOMPurify.sanitize(document.getElementById('result').innerHTML).replace(/\s+/g, ' ').replace(/\n/g, '');
+            result += '</div></body></html>'
+
+            let element = document.createElement('a');
+            element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(result));
+            element.setAttribute('download', (this.entry.name || 'untitled').replace(/[^a-z0-9]/gi, '_').toLowerCase() + '-' + (Math.floor(new Date().getTime() / 1000)) + '.htm');
+
+            element.style.display = 'none';
+            document.body.appendChild(element);
+
+            element.click();
+
+            document.body.removeChild(element);
+        },
+        parseMd(data) {
+            return DOMPurify.sanitize(showdown.makeHtml(data))
+        },
+        snippet(id) {
+            this.editor.insert(snippets[id]);
+        },
+        newFile() {
+            let self = this;
+            if (this.isGuest) {
+                let e = new Entry();
+                e.id = Util.id();
+                this.entries.push(e);
+                this.targetId = e.id;
+                self.route = 'edit';
+            }
+            else {
+                $.post('/r/', {
+                    t: _token,
+                    r: 'new'
+                }, function (data) {
+                    if (data.success) {
+                        let entry = new Entry();
+                        let v = data;
+                        entry.id = v.data.id;
+                        entry.meta.public = v.meta.public;
+                        entry.meta.url = v.meta.url;
+                        self.entries.push(entry);
+                        self.targetId = entry.id;
+                    }
+
+                    if (self.entries.length) {
+                        self.route = 'edit';
+                    }
+                })
+            }
+        },
+        duplicateFile() {
+            let self = this;
+            let data = JSON.stringify(this.entry);
+
+            if (this.isGuest) {
+                let e = new Entry();
+                e.id = Util.id();
+                e.body = this.entry.body;
+                this.entries.push(e);
+                this.targetId = e.id;
+                self.route = 'edit';
+            }
+            else {
+                $.post('/r/', {
+                    t: _token,
+                    r: 'new',
+                    data: data
+                }, function (data) {
+                    if (data.success) {
+                        this.isLoaded = false;
+                        let entry = new Entry();
+                        let v = data;
+                        entry.id = v.data.id;
+                        entry.body = v.data.body;
+                        entry.meta.public = v.meta.public;
+                        entry.meta.url = v.meta.url;
+                        self.entries.push(entry);
+                        self.targetId = entry.id;
+                    }
+
+                    if (self.entries.length) {
+                        self.route = 'edit';
+                    }
+                })
+            }
+        },
+        terminateData() {
+            let self = this;
+            $.post('/r/', {
+                t: _token,
+                r: 'terminate',
+            }, function (data) {
+                window.location.href = window.location.origin + '/logout.php';
+            });
+        },
+        saveData: _.debounce(function () {
+            if (!this.isLoaded) {
+                this.isLoaded = true;
+                return;
+            }
+            if (this.entry.id == 'ex')
+                return;
+
+            if (this.route != 'edit')
+                return;
+
+            localStorage.setItem('backup', JSON.stringify(this.entries));
+
+            if (this.isGuest) {
+                localStorage.setItem('data', JSON.stringify(this.entries));
+            }
+            else {
+                let e = JSON.stringify(this.entry);
+                $.post('/r/', {
+                    t: _token,
+                    r: 'save',
+                    data: e
+                }, function (data) {
+                    console.log('-- Entry saved remotely');
+                })
+            }
+        }, 100),
+        viewData() {
+            let self = this;
+            $.post('/r/', {
+                t: _token,
+                r: 'view',
+                v: _v
+            }, function (data) {
+                if (data.success) {
+                    let entries = [];
+                    let v = data;
+                    let entry = new Entry();
+                    entry.id = v.data.id;
+                    entry.body = v.data.body || '';
+                    entry.name = v.data.name || '';
+                    entry.tags = [];
+                    entries.push(entry);
+                    self.entries = entries;
+                    self.route = 'view';
+                    self.home = 'view';
+                    self.targetId = entry.id;
+
+                    if (entry.body) {
+                        document.querySelector('meta[name="description"]').setAttribute("content", self.metadescription);
+                    }
+                    if (entry.name && entry.name.trim()) {
+                        window.history.replaceState(null, '', '/v/' + _v + '-' + entry.name.trim().replace(/[^a-z0-9]+/gi, '-').toLowerCase().replace(/-+$/i, ''));
+                    }
+                }
+            })
+        },
+        deleteData() {
+            let self = this;
+
+            if (this.isGuest) {
+                let id = self.entry.id;
+                self.entries = self.entries.filter(e => e.id != id);
+                self.modal('');
+                if (!self.entries.length) {
+                    self.route = '';
+                    self.newFile();
+                }
+                else {
+                    self.targetId = '';
+                }
+            }
+            else {
+                $.post('/r/', {
+                    t: _token,
+                    r: 'delete',
+                    file: self.entry.id
+                }, function (data) {
+                    if (data.success) {
+                        let id = self.entry.id;
+                        self.entries = self.entries.filter(e => e.id != id);
+                        self.modal('');
+                        if (!self.entries.length) {
+                            self.route = '';
+                            self.newFile();
+                        }
+                        else {
+                            self.targetId = '';
+                        }
+                    }
+                });
+            }
+        },
+        toTitleCase(str) {
+            if (!str)
+                return '';
+            str = str.toLowerCase();
+            str = str.split(' ');
+            for (let i = 0; i < str.length; i++) {
+                str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1);
+            }
+            return str.join(' ');
+        },
+        ensureSign(obj) {
+            let str = obj + '';
+            if (str.includes('-') || str.includes('+'))
+                return str;
+            return '+' + str;
+        },
+        fetchItem(url) {
+            let self = this;
+
+            const _convertaction = function (a) {
+                if (a == 'one') return ':a:';
+                if (a == 'two') return ':aa:';
+                if (a == 'three') return ':aaa:';
+                if (a == 'reaction') return ':r:';
+                if (a == 'free') return ':f:';
+                return a;
+            }
+
+            // self.remotedata[url] = '';
+
+            setTimeout(() => {
+                console.log('-- Fetching data', url);
+                self.pendingfetches += 1;
+                $.post('/r/', {
+                    t: _token,
+                    r: 'fetchdata',
+                    url: url
+                }, function (data) {
+                    // turn the data into markdwon here
+                    self.completedfetches += 1;
+                    if (!data.data) {
+                        console.log('-- Fetch failed!', url);
+
+                        if (self.completedfetches >= self.pendingfetches) {
+                            self.pendingfetches = 0;
+                            self.completedfetches = 0;
+                            self.increaseLoadcount();
+                        }
+
+                        return;
+                    }
+                    let str = '';
+                    let t = '';
+                    let tokens = [];
+                    let i = data.data;
+                    if (url.includes('monster.pf2.tools')) {
+                        str += `# ${i.name}\n## ${i.creature || 'Creature'} ${i.showlevel || i.level}\n-\n`;
+                        str += `;${[i.alignment, i.size, i.type, i.traits].filter(x => x).join(',')}\n`;
+                        if (i.perception.value)
+                            str += `**Perception** ${self.ensureSign(i.perception.value)}\n\n`;
+                        if (i.languages)
+                            str += `**Languages** ${i.languages}\n\n`;
+                        str += `**Skills** `;
+
+
+                        tokens = [];
+
+                        for (let s of ['acrobatics', 'athletics', 'arcana', 'crafting', 'deception', 'diplomacy', 'intimidation', 'medicine', 'nature', 'occultism', 'performance', 'religion', 'society', 'stealth', 'survival', 'thievery']) {
+                            if (i[s].value) {
+                                t = `${self.toTitleCase(s)}&nbsp;${self.ensureSign(i[s].value)}`;
+                                if (i[s].note) {
+                                    t += ` (${i[s].note})`
+                                }
+                                tokens.push(t)
+                            }
+                        }
+
+                        for (let s of ['lore', 'lorealt']) {
+                            if (i[s].value) {
+                                t = `${self.toTitleCase(i[s].name)}&nbsp;${self.ensureSign(i[s].value)}`;
+                                if (i[s].note) {
+                                    t += ` (${i[s].note})`
+                                }
+                                tokens.push(t)
+                            }
+                        }
+                        str += tokens.join(', ');
+                        str += `\n\n`
+
+                        tokens = [];
+
+                        for (let s of ['strength', 'dexterity', 'constitution', 'intelligence', 'wisdom', 'charisma']) {
+                            t = `**${self.toTitleCase(s).slice(0, 3)}**&nbsp;${self.ensureSign(i[s].value)}`;
+                            if (i[s].note) {
+                                t += ` (${i[s].note})`;
+                            }
+                            tokens.push(t);
+                        }
+                        str += tokens.join(', ');
+                        str += `\n\n`
+
+                        for (let s of i.specials.filter(o => o.type == 'general')) {
+                            str += `**${s.name}**`
+                            if (s.traits)
+                                str += ` (${s.traits})`;
+                            str += ` ${self.autoFormat(s.description)}\n\n`
+                        }
+
+                        if (i.items)
+                            str += `**Items** ${i.items}\n\n`;
+
+
+
+                        str += `\n-\n`;
+                        str += `**AC** ${i.ac.value}`;
+                        if (i.ac.note)
+                            str += ` (${i.ac.note})`;
+                        str += `; `
+
+                        tokens = [];
+
+                        for (let s of ['fortitude', 'reflex', 'will']) {
+                            let n = 'Will';
+                            if (s == 'fortitude')
+                                n = 'Fort';
+                            if (s == 'reflex')
+                                n = 'Ref';
+                            tokens.push(`**${n}**&nbsp;${self.ensureSign(i[s].value)}`)
+                        }
+
+                        str += tokens.join(', ');
+
+                        str += `\n\n**HP** ${i.hp.value}`;
+                        if (i.hp.note)
+                            str += ` (${i.hp.note})`
+                        str += `; `;
+
+                        tokens = [];
+                        for (let s of ['resistance', 'weakness', 'immunity']) {
+                            if (i[s].value) {
+                                t = `**${self.toTitleCase(s)}**&nbsp;${i[s].value}`;
+                                tokens.push(t)
+                            }
+                        }
+                        str += tokens.join('; ');
+
+                        str += `\n\n`;
+
+                        for (let s of i.specials.filter(o => o.type == 'defense')) {
+                            str += `**${s.name}** ${_convertaction(s.actions)}`
+                            if (s.traits)
+                                str += ` (${s.traits})`;
+                            str += ` ${self.autoFormat(s.description)}\n\n`
+                        }
+
+                        str += `\n-\n`;
+
+                        str += `**Speed** ${i.speed}\n\n`;
+
+                        for (let s of i.strikes) {
+                            str += `**${s.type}** :a: ${s.name.toLowerCase()} ${self.ensureSign(s.attack)}`
+                            if (s.traits)
+                                str += ` (${s.traits})`;
+                            str += `, **Damage** ${s.damage}\n\n`
+                        }
+
+
+
+                        if (i.spelltype) {
+                            str += `**${self.toTitleCase(i.spelltype)} Spells** DC ${i.spelldc.value}`
+                            if (i.spelldc.note)
+                                str += ` (${i.spelldc.note})`;
+                            str += `, attack ${self.ensureSign(i.spellattack.value)}`;
+                            if (i.spellattack.note)
+                                str += ` (${i.spellattack.note})`;
+                            str += `;`;
+
+                            for (let l = 0; l <= 10; l++) {
+                                if (i.spells[l]) {
+                                    if (l == 10) {
+                                        str += ` **Cantrips (${self.numberSuffix(i.cantriplevel)})** ${self.formatSpells(i.spells[l])}`;
+                                    }
+                                    else {
+                                        str += ` **${self.numberSuffix(10 - l)}** ${self.formatSpells(i.spells[l])}`;
+                                    }
+                                }
+                            }
+
+                            if (i.constant)
+                                str += ` **Constant** ${i.constant}`;
+
+                            str += `\n\n`
+                        }
+
+                        for (let s of i.morespells) {
+                            str += `**${self.toTitleCase(s.name)} Spells** DC ${s.spelldc.value}`
+                            if (s.spelldc.note)
+                                str += ` (${s.spelldc.note})`;
+                            str += `, attack ${self.ensureSign(s.spellattack.value)}`;
+                            if (s.spellattack.note)
+                                str += ` (${s.spellattack.note})`;
+                            str += `;`;
+
+                            for (let l = 0; l <= 10; l++) {
+                                if (s.spells[l]) {
+                                    if (l == 10) {
+                                        str += ` **Cantrips (${self.numberSuffix(s.cantriplevel)})** ${self.formatSpells(s.spells[l])}`;
+                                    }
+                                    else {
+                                        str += ` **${self.numberSuffix(10 - l)}** ${self.formatSpells(s.spells[l])}`;
+                                    }
+                                }
+                            }
+
+                            if (s.constant)
+                                str += ` **Constant** ${s.constant}`;
+
+                            str += `\n\n`
+                        }
+
+                        if (i.ritualtype) {
+                            str += `**${self.toTitleCase(i.ritualtype)} Rituals** DC ${i.spelldc.value}; ${i.rituals}\n\n`
+                        }
+
+                        for (let s of i.specials.filter(o => o.type == 'offense')) {
+                            str += `**${s.name}** ${_convertaction(s.actions)}`
+                            if (s.traits)
+                                str += ` (${s.traits})`;
+                            str += ` ${self.autoFormat(s.description)}\n\n`
+                        }
+
+                        str = `item(\n${str}\n)\n${i.description}`
+                    }
+                    else if (url.includes('scribe.pf2.tools')) {
+                        if (i.data)
+                            str += i.data;
+                    }
+                    else {
+                        str += `# ${i.name} ${_convertaction(i.actions)}\n## ${i.type} ${i.level}\n-\n`;
+                        str += `;${i.traits}\n`;
+                        str += `${self.autoFormat(i.body.replace(/\n/g, '\n\n'))}`;
+
+                        str = `item(\n${str}\n)`
+
+                    }
+
+                    if (self.remotedata[url] != str) {
+                        console.log('-- Retrieved', url);
+                        self.remotedata[url] = str;
+                        if (self.completedfetches >= self.pendingfetches) {
+                            self.pendingfetches = 0;
+                            self.completedfetches = 0;
+                            self.increaseLoadcount();
+                        }
+                    }
+                    else {
+                        console.log('-- Unchanged', url);
+                    }
+
+                });
+            }, 500);
+        },
+        increaseLoadcount: _.debounce(function () {
+            this.loadcount++;
+        }, 2000),
+        refetch() {
+            this.pendingfetches = 0;
+            this.completedfetches = 0;
+            this.remotedata = {};
+            this.loadcount++;
+        },
+        formatSpells(str) {
+            return '*' + str
+                .replace(/\(x(\d)\)/g, '(&times;$1)')
+                .replace(/ *\((.+?)\) */gmi, "* ($1) *")
+                .replace(/\*\*$/, '') + '*';
+        },
+        autoFormat(str) {
+            str = str
+                .replace(/Dex Cap/g, 'Dex&nbsp;Cap')
+                .replace(/^  (\w)/gmi, '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$1')
+                .replace(/\(x(\d)\)/g, '(&times;$1)')
+                .replace(/(^|\n)(Craft Requirements|Ammunition|Duration|Heightened \(.+?\)|Traditions|Cast|Range|Type|Scope and Influence|Goals|Headquarters|Key Members|Allies|Assets|Membership Requirements|Accepted Alignments|Values|Anathema|Access|Special|Routine|Reset|Communication|Destruction|Aspect|Perception|Description|Languages|Skills|Items|Speed|Melee|Ranged|Saving Throw|AC|HP|Speed|Government|Capital|Population|Religions|Irreligious|Primary Exports|Enemies|Factions|Threats|Native Inhabitants|Divinities|Category|Discovery|Influence \d+:|Influence Skills|Background|Appearance|Personality|Penalty|Research Checks|Chase Points|Infiltration Points|Cost|Terrain|Resources|Secrets|Space|Crew|Piloting Check|Hardness|Collision|Special Abilities)/gm, `$1**$2**`)
+                // .replace(/Bulk/, '**Bulk**')
+                // .replace(/Area/, '**Area**')
+                // .replace(/Usage/, '**Usage**')
+                // .replace(/Targets/, '**Targets**')
+                // .replace(/\**(Hands|Bulk|Area|Usage|Targets)\**/g, '**$1**')
+                .replace(/\b\**(Traits|Dex&nbsp;Cap|Strength|Group|Check Penalty|Category|Damage|Source|Price|AC Bonus|Speed Penalty|Hardness|HP \(BT\)|Level|Prerequisites|Frequency|Passengers|Saving Throws|Trigger|Requirements|Effect|Overcome|Maximum RP|Research Points|Will|Fort|Ref|Fortitude|Reflex|Critical Success|Critical Failure|Success|Failure|Maximum Duration|Str|Dex|Con|Int|Wis|Cha|Cantrip|Immunities|Resistances|Weaknesses|Stage \d|\(\d+\D\D\))\**\b/gm, `**$1**`)
+                .replace(/\((aaa|aa|a|r|f)\)/gmi, `:$1:`)
+                .replace(/^(.+?) *:(aaa|aa|a|r|f):/gmi, `\n**$1** :$2:`)
+                .replace(/^(Stealth|Perception|Disable) *(DC.+)/gm, `**$1** $2`)
+                .replace(/\*+(Fortitude|Reflex|Will)\*+ save/g, '$1 save')
+                .replace(/\*+(Fortitude|Reflex|Will)\*+;/g, '$1;')
+            // .replace(/\*{3,}/gmi, '**')
+            return str;
+        },
+        loadData() {
+            let self = this;
+
+            this.options = JSON.parse(localStorage.getItem('options')) || this.options;
+
+            if (this.isGuest) {
+                let data = localStorage.getItem('data');
+                if (data) {
+                    this.entries = JSON.parse(data);
+                }
+                else {
+                    // self.newFile();
+                }
+
+                for (let entry of this.entries)
+                    entry.tags = entry.tags || [];
+
+                self.route = 'edit';
+
+            }
+            else {
+                $.post('/r/', {
+                    t: _token,
+                    r: 'load'
+                }, function (data) {
+                    if (data.success) {
+                        let entries = [];
+                        for (let e in data.data) {
+                            let v = data.data[e];
+                            let entry = new Entry();
+                            entry.id = e;
+                            entry.body = v.data.body || '';
+                            entry.name = v.data.name || '';
+                            entry.tags = v.data.tags || [];
+                            entry.meta.public = v.meta.public || 0;
+                            entry.meta.url = v.url;
+                            entries.push(entry);
+                        }
+                        self.entries = entries;
+                    }
+
+                    if (self.entries.length) {
+                        self.route = 'edit';
+                    }
+                    else {
+                        self.newFile();
+                    }
+                })
+            }
+
+        },
+        numberSuffix(num) {
+            if (!num) return '';
+            if (num == '1') return num + 'st';
+            if (num == '2') return num + 'nd';
+            if (num == '3') return num + 'rd';
+            return num + 'th'
+        },
+        mountAce() {
+            if (this.editor)
+                return;
+
+            let self = this;
+            this.editor = ace.edit("editor");
+            this.editor.setOptions({
+                fontSize: 12,
+                showFoldWidgets: false,
+                theme: "ace/theme/github",
+                showPrintMargin: false,
+                copyWithEmptySelection: true,
+                scrollPastEnd: 0.5,
+                showLineNumbers: false
+            })
+            this.editor.session.setMode("ace/mode/markdown");
+            this.editor.session.setOptions({
+                wrap: true
+            })
+
+            // this.editor.session.on('change', (e) => {
+            //     self.input = self.editor.getValue();
+            // })
+
+            const db = _.debounce(function (e) {
+                self.input = self.editor.getValue();
+            }, 250)
+
+            this.editor.session.on('change', (e) => {
+                db(e);
+            })
+
+            this.editor.setValue(this.input, 1);
+            this.editor.session.getUndoManager().reset();
+            this.editor.resize(true);
+
+        },
+        modal(id) {
+            if (!id) {
+                $('#modal').modal('hide');
+
+                return;
+            }
+            this.modalId = id;
+            $('#modal').modal();
+        }
+    },
+    mounted() {
+
+        let self = this;
+        if (window.location.search.includes('code=')) {
+            window.history.replaceState('', '', window.location.origin + window.location.pathname);
+        }
+        if (window.location.search.includes('fbclid=')) {
+            window.history.replaceState('', '', window.location.origin + window.location.pathname);
+        }
+
+        let localsettings = false;
+        try {
+            localsettings = JSON.parse(localStorage.getItem('localsettings'));
+        }
+        catch (e) {
+        }
+        this.localsettings = localsettings || this.localsettings;
+
+        if (_v) {
+            this.viewData();
+            setInterval(() => {
+                if (self.route == 'view')
+                    this.viewData();
+            }, 5000)
+        }
+        else {
+            this.loadData();
+        }
+
+        fetch('/md/license.md')
+            .then(r => r.text())
+            .then(data => {
+                self.md['license'] = data
+                self.md = JSON.parse(JSON.stringify(self.md)); // Vue hack
+            });
+
+        fetch('/md/share.md')
+            .then(r => r.text())
+            .then(data => {
+                self.md['share'] = data
+                self.md = JSON.parse(JSON.stringify(self.md)); // Vue hack
+            });
+
+        fetch('/md/help.md')
+            .then(r => r.text())
+            .then(data => {
+                self.md['help'] = data
+                self.md = JSON.parse(JSON.stringify(self.md)); // Vue hack
+            });
+
+        let css = {
+            '/vendor/font.css': '',
+            '/vendor/bootstrap.min.css': '',
+            '/app/app.css': ''
+        };
+        let count = 0;
+        this.cssdata = '';
+        for (let c in css) {
+            $.get(c, function (data) {
+                css[c] = data.replace(/\n/g, '').replace(/\s+/g, ' ');
+                count++;
+                if (count == Object.keys(css).length) {
+                    for (let key in css) {
+                        self.cssdata += css[key];
+                    }
+                }
+            });
+        }
+
+        setInterval(function () {
+            // console.log('-- Ping?')
+            $.post('/r/', {
+                r: 'ping',
+                t: _token
+            }, function (data) {
+                // console.log('-- Pong!');
+                if (data == '...') {
+                    // Session ended early
+                    self.bigError = "Session expired! Data isn't being saved! Log in again to continue."
+                }
+            })
+        }, 1000 * 10);
+
+        $('body').on('click', '[data-label]', function () {
+            let label = ($(this).attr('data-label'));
+            vm.goto(label);
+        })
+    },
+    template: /*html*/ `
+<div style="min-height: 100vh;"> 
+<div class="mx-auto pt-5 lds-roller" v-if="!route"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+
+<div v-if="bigError" class="text-center p-3 font-weight-bold text-uppercase" style="font-size: 200%;color:red;background-color:yellow">{{bigError}}</div>
+
+<div style="min-height: 100vh; min-width: 900px" class="d-flex flex-column" v-if="route == 'edit'"  :style="bgstyle">
+    <div class="d-flex h-100 flex-grow-1">
+        <div class="flex-even shadow" v-if="route == 'edit'">
+            <div class="d-flex flex-column h-100 " style="min-width: 320px">
+                <div class="bg-light p-1 d-flex align-items-center">
+                    <div class="dropdown">
+                    <button class="btn btn-light-h220" data-toggle="dropdown"><fa fw icon="bars"/></button>
+                    <div class="dropdown-menu">
+                        <button class="btn btn-light-h220 text-uppercase w-100" v-if="_user.sub" @click="modal('account')">{{_user.name || _user.nickname}}</button>
+                        <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="newFile" ><fa fw icon="file-plus"/> new</button>
+                        <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="duplicateFile"><fa fw icon="copy"/> Duplicate</button>
+                        <button class="btn btn-light-h10 text-uppercase w-100 text-left font-weight-bold" @click="modal('delete')"><fa fw icon="trash"/> delete</button>
+                        <hr class="op-25 my-1">
+                        <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="modal('settings')"><fa fw icon="cog"/> settings</button>
+                        <hr class="op-25 my-1">
+                        <button v-if="!isGuest && targetId" class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="modal('share')"><fa fw icon="share-square"/> share</button>
+                        <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="getHtml"><fa fw icon="code"/> html</button>
+                        <!--<button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="getPdf"><fa fw icon="file-pdf"/> pdf</button>-->
+                        <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="getPrint()"><fa fw icon="print"/> print</button>
+                        <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="getPrint(true)"><fa fw icon="adjust"/> print</button>
+                        <hr class="op-25 my-1">
+                        <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="modal('help')"><fa fw icon="question"/> help</button>
+                        <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" @click="targetId = false"><fa fw icon="align-left"/> example</button>
+                        <hr class="op-25 my-1">
+                        <button class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold"  v-if="_user.sub" @click="modal('account')"><fa fw icon="user-circle"/> account</button>
+                        <a class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" href="logout.php" v-if="_user.sub"><fa fw icon="sign-out-alt"/> logout</a>
+                        <a class="btn btn-light-h220 text-uppercase w-100 text-left font-weight-bold" href="login.php" v-else><fa fw icon="sign-in-alt"/> login</a>
+                    </div>
+                    </div>
+
+                    <div class="dropdown">
+                    <button class="btn btn-light-h220" data-toggle="dropdown"><fa fw icon="pen"/></button>
+                    <div class="dropdown-menu">
+                        <button v-for="i,k in snippets" class="btn btn-light-h220 w-100 text-left text-uppercase font-weight-bold" @click="snippet(k)"><fa fw icon="plus-square"/> {{k}}</button>
+                    </div>
+                    </div>
+
+                    <div class="dropdown">
+                    <button class="btn btn-light-h220" data-toggle="dropdown"><fa fw icon="folder-open"/></button>
+                    <div class="dropdown-menu">
+                        <input class="form-control form-control-sm mb-1" placeholder="filter" v-model="filtername">
+                        <div v-if="alltags.length" class="mb-1">
+                        <button class="btn btn-light-h140 btn-sm text-uppercase small" :class="isFilter(tag) ? 'active' : ''" v-for="tag of alltags" @click.stop="toggleFilter(tag)">{{tag}}</button>
+                        </div>
+
+                        <button v-for="e of _.sortBy(filtered, i => i.name.toUpperCase())" class="btn btn-light-h220 w-100 text-left text-condensed font-weight-bold" @click="targetId = e.id"><fa fw icon="file"/>&nbsp;{{ e.name || 'Untitled' }}</button>
+                    </div>
+                    </div>
+
+                  
+
+                    <input v-model="entry.name" class="form-control text-condensed font-weight-bold" placeholder="Untitled" style="max-width:250px">
+
+                      <div class="dropdown ml-1" v-for="t of entry.tags" :key="'tag'+t">
+                    <button data-toggle="dropdown" class="btn btn-sm btn-light-h140 text-uppercase small">{{t}}</button>
+                    <div class="dropdown-menu p-1" style="width: 50px">
+                        <button class="btn btn-sm btn-light-h20 text-uppercase w-100" @click="removeTag(t)"><i class="fas fa-fw fa-trash"></i> delete tag</button>
+                    </div>
+                    </div>
+
+                    <input v-model="tag" class="form-control form-control-sm text-condensed text-uppercase ml-1" placeholder="Add Tag" @blur="addTag(tag);tag=''" @keyup.enter="addTag(tag);tag=''" style="max-width:100px" v-if="$root.entry.id != 'ex'">
+
+                    <div class="ml-auto"></div>
+
+                    <a v-if="!isGuest && targetId && $root.entry.meta.public" class="small mx-1" :href="$root.location.origin + '/v/' + $root.entry.meta.url" target="_blank">{{window.location.origin}}/v/{{ $root.entry.meta.url }}</a>
+                    <button class="btn btn-light-h220 text-condensed text-uppercase font-weight-bold" @click="modal('share')" v-if="!isGuest && targetId"><fa fw icon="share-square"/></button>
+                    <button class="btn ml-1 btn-light-h220 text-condensed text-uppercase font-weight-bold" @click="refetch()"><fa fw icon="sync-alt"/></button>
+
+                </div>
+                <div id="editor" class="flex-fill bg-paper"></div>
+            </div>
+        </div>
+        <div style="max-height: 100vh; width:200px;margin: 0.25rem;left: 0" class="overflow-scroll hide-mobile" v-if="toc.length">
+            <toc/>
+        </div>
+        <div style="max-height: 100vh" class="mx-auto overflow-scroll flex-even position-relative" id="result-scroller" >
+            <div id="result">
+            <component is="style">{{stylesheet}}</component>
+                <scribe-page v-for="i,n of pages" :key="'page' + n" :i="i"/>
+            </div>
+            <div class="m-4 small op-50" v-html="parseMd(md['license'])"></div>
+            <div style="height: 100px"></div>
+        </div>
+    </div>
+
+    <modal id="modal" :title="modalId" mw="640" >
+        <component v-if="modalId" :is="modalId"/>
+    </modal>
+</div>
+<div v-if="route == 'view'" class="position-absolute">
+<button class="btn btn-h220 text-uppercase text-left font-weight-bold m-1 position-fixed print-hide hide-mobile" @click="options.a4 = !options.a4" style="right: 0;top:30px"><span  :class="{'op-25':!options.a4}" >a4</span></button>
+    <button class="position-fixed print-hide btn btn-h220 m-1" style="right: 0" @click="getPrint()"><fa fw icon="print"/></button>
+
+</div>
+<div v-if="route == 'view'" :style="bgstyle">
+   
+    <div style="max-height: 100vh; width:200px;margin: 0.25rem;left: calc(50% - 608px)" class="overflow-scroll hide-mobile position-fixed" v-if="toc.length">
+        <toc/>
+    </div>
+    <div style="max-height: 100vh; width:150px;margin: 0.25rem;left: 0" class="overflow-scroll hide-desktop position-fixed" v-if="toc.length">
+        <toc/>
+    </div>
+    <div >
+     <div style="font-size:11px" class="mx-auto page-width text-center text-condensed font-weight-bold op-50 print-hide lh-150">
+    This content is not published, endorsed, or approved by Paizo Inc. This content is for personal use only, and may not be used for any infringing, unlawful, or commercial purposes.
+    </div>
+    <div id="result">
+            <component is="style">{{stylesheet}}</component>
+    <scribe-page v-for="i,n of pages" :key="'page' + n" :i="i"/>
+            </div>
+    <div class="mt-4 mx-auto small op-50 print-hide" style="max-width: 800px" v-html="parseMd(md['license'])"></div>
+    </div>
+</div>
+<div v-if="route == 'print'" class="printing" :class="{bwp:bwp}">
+    <button class="position-fixed print-hide btn btn-h220 m-1" style="right: 0" @click="route = home"><fa fw icon="arrow-left"/></button>
+    <button class="position-fixed print-hide btn btn-h220 m-1" style="right: 0;top:30px" @click="window.print()"><fa fw icon="print"/></button>
+    <button class="position-fixed print-hide btn btn-h220 m-1" style="right: 0;top:60px" @click="bwp = !bwp"><fa fw icon="adjust"/></button>
+    <div id="result" >
+            <component is="style">{{stylesheet}}</component>
+    <scribe-page v-for="i,n of pages" :key="'page' + n" :i="i"/>
+            </div>
+</div>
+</div>
+    `
+})
