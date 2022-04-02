@@ -38,6 +38,8 @@ jobs:
 
       - name: Make Run
         run: make run
+        env:
+          -  PUPPETEER_EXECUTABLE_PATH: /usr/bin/google-chrome
 
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v3.0.0
