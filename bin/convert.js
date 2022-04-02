@@ -67,16 +67,19 @@ function sleep(ms) {
     vm.editor.setValue(content)
   }, fileContent);
 
+	await sleep(500);
+
   let result = await page.evaluate(_ =>
-    vm.html(vm.editor.getValue())
+    // vm.html(vm.editor.getValue())
+		vm.getHtml()
   )
 
-	try {
-		fs.writeFileSync(outputFile, result)
-	} catch (err) {
-		console.error(err)
-		process.exit(-1)
-	}
+	// try {
+	// 	fs.writeFileSync(outputFile, result)
+	// } catch (err) {
+	// 	console.error(err)
+	// 	process.exit(-1)
+	// }
   
   if (debug) {
     await sleep(3000000)
