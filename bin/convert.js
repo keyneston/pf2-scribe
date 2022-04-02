@@ -80,7 +80,7 @@ function sleep(ms) {
 })();
 
 try {
-  fs.writeFileSync(outputFile, fileContent)
+  fs.writeFileSync(outputFile, result)
 } catch (err) {
   console.error(err)
   process.exit(-1)
