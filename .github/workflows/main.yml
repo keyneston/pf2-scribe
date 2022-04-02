@@ -24,17 +24,17 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install dependencies
-        uses: tj-actions/puppeteer@v3.2
+      - name: cache dependencies
+        uses: actions/cache@v2
         with:
-          args: npm install
-          node-version: 12
+          path: '**/node_modules'
+        key: node_modules-${{ hashFiles('**/package-lock.json')}}
+
+      - name: install dependencies
+        run: npm ci --ignore-scripts
 
       - name: Make Run
-        uses: tj-actions/puppeteer@v3.2
-        with:
-          args: make run
-          node-version: 12
+        run: make run
 
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v3.0.0
