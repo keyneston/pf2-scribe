@@ -24,14 +24,15 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: cache dependencies
-        uses: actions/cache@v3
-        with:
-          path: '**/node_modules'
-          key: node_modules-${{ hashFiles('**/package-lock.json')}}
+			- uses: actions/cache@v3
+			  with:
+			    path: ~/.npm
+			    key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+			    restore-keys: |
+			      ${{ runner.os }}-node-
 
       - name: install dependencies
-        run: npm ci --ignore-scripts
+        run: npm install
 
       - name: Make Run
         run: make run
