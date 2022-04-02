@@ -26,7 +26,7 @@ jobs:
       - name: Install dependencies
         uses: tj-actions/puppeteer@v3.2
         with:
-          args: yarn install
+          args: npm install
       - run: make run
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v3.0.0
