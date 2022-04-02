@@ -31,7 +31,6 @@ if (outputFile== "") {
 }
 
 var fileContent = ''
-var result = ''
 
 try {
   fileContent = fs.readFileSync(inputFile, 'utf8')
@@ -68,9 +67,16 @@ function sleep(ms) {
     vm.editor.setValue(content)
   }, fileContent);
 
-  result = await page.evaluate(_ =>
+  let result = await page.evaluate(_ =>
     vm.html(vm.editor.getValue())
   )
+
+	try {
+		fs.writeFileSync(outputFile, result)
+	} catch (err) {
+		console.error(err)
+		process.exit(-1)
+	}
   
   if (debug) {
     await sleep(3000000)
@@ -78,10 +84,3 @@ function sleep(ms) {
 
   await browser.close();
 })();
-
-try {
-  fs.writeFileSync(outputFile, result)
-} catch (err) {
-  console.error(err)
-  process.exit(-1)
-}
